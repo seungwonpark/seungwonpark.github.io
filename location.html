@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -35,7 +35,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand">박승원</a>
+          <a class="navbar-brand">�ڽ¿�</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
@@ -68,40 +68,55 @@
         </div><!--/.nav-collapse -->
       </div>
     </nav>
+<!-- getting coordinates -->
+
+<p id="demo">Click the button to get your position.</p>
+
+<button onclick="getLocation()">Try It</button>
+
+<div id="mapholder"></div>
+
+<script>
+var x = document.getElementById("demo");
+
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition, showError);
+    } else {
+        x.innerHTML = "Geolocation is not supported by this browser.";
+    }
+}
+
+function showPosition(position) {
+    var latlon = position.coords.latitude + "," + position.coords.longitude;
+
+    var img_url = "http://maps.googleapis.com/maps/api/staticmap?center="
+    +latlon+"&zoom=14&size=400x300&sensor=false";
+    document.getElementById("mapholder").innerHTML = "<img src='"+img_url+"'>";
+}
+
+function showError(error) {
+    switch(error.code) {
+        case error.PERMISSION_DENIED:
+            x.innerHTML = "User denied the request for Geolocation."
+            break;
+        case error.POSITION_UNAVAILABLE:
+            x.innerHTML = "Location information is unavailable."
+            break;
+        case error.TIMEOUT:
+            x.innerHTML = "The request to get user location timed out."
+            break;
+        case error.UNKNOWN_ERROR:
+            x.innerHTML = "An unknown error occurred."
+            break;
+    }
+}
+</script>
 
 
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<div class="container">
-<div class="jumbotron">
-<h1>ㅁㄴㅇㄹ</h1>
-</div>
-
-<p>Made by seungwonpark</p>
-<s>개나소나 홈페이지 만드는 시대가 왔다</s>
-<ul>
-<li>
-  <a href="https://www.facebook.com/seungwonparkphilosophy">승정원일기 : https://www.facebook.com/seungwonparkphilosophy </a>
-</li>
-</ul>
-
-<!-- Facebook comment -->
-<div class="fb-comments" data-href="http://seungwonpark.github.io/" data-width="500" data-numposts="5"></div>
 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/dXRAIKZ5LKk" frameborder="0" allowfullscreen></iframe>
-
- <img src="images\ca.png" alt="ca" class="img-thumbnail">
-<p> ⓒseungwonpark 2015. Powered by GitHub, Bootstrap
-</div>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
@@ -111,5 +126,7 @@
     <script src="js/docs.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
-</body>
+  </body>
 </html>
+
+
