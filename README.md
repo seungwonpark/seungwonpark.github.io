@@ -1,3 +1,4 @@
 # seungwonpark.github.io
-seungwonpark.github.io
-내꺼임
+http://www.seungwonpark.github.io
+
+개인용 홈페이지 겸 웹하드
