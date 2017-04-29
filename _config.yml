@@ -1,0 +1,10 @@
+title: Seungwon Park
+url: "http://swpark.me"
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass

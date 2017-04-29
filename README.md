@@ -1,4 +1,4 @@
 # seungwonpark.github.io
-http://seungwonpark.github.io
+http://swpark.me
 
-개인용 홈페이지 겸 웹하드
+seungwonpark's blog
