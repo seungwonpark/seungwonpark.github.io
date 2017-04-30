@@ -11,16 +11,21 @@ is_contact: true
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+> None
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/veydpz)
+2. [Facebook Blog](https://www.facebook.com/seungwonparkphilosophy)
+3. [Telegram](https://t.me/seungwonpark)
+4. [GitHub](https://github.com/seungwonpark)
+
+---
+
+## Online Judge Sites
+
+1. [koistudy](http://koistudy.net/?mid=view_prob&id=gs14041)
+2. [Baekjoon Online Judge](https://www.acmicpc.net/user/veydpz)
+3. [Codeforces](codeforces.com/profile/veydpz)
