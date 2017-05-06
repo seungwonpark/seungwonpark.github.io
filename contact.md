@@ -21,4 +21,4 @@ is_contact: true
 
 * [koistudy](http://koistudy.net/?mid=view_prob&id=gs14041)
 * [Baekjoon Online Judge](https://www.acmicpc.net/user/veydpz)
-* [Codeforces](codeforces.com/profile/veydpz)
+* [Codeforces](http://codeforces.com/profile/veydpz)
