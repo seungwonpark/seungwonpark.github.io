@@ -3,29 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> None
+* Email: yyyyy AT snu DOT ac DOT kr
+* [GitHub](https://github.com/seungwonpark)
 
 ---
 
 ## Social
 
-1. [Facebook](https://www.facebook.com/veydpz)
-2. [Facebook Blog](https://www.facebook.com/seungwonparkphilosophy)
-3. [Telegram](https://t.me/seungwonpark)
-4. [GitHub](https://github.com/seungwonpark)
+* [Facebook](https://www.facebook.com/veydpz)
+* [Facebook Blog](https://www.facebook.com/seungwonparkphilosophy)
+* [Telegram](https://t.me/seungwonpark)
 
 ---
 
 ## Online Judge Sites
 
-1. [koistudy](http://koistudy.net/?mid=view_prob&id=gs14041)
-2. [Baekjoon Online Judge](https://www.acmicpc.net/user/veydpz)
-3. [Codeforces](codeforces.com/profile/veydpz)
+* [koistudy](http://koistudy.net/?mid=view_prob&id=gs14041)
+* [Baekjoon Online Judge](https://www.acmicpc.net/user/veydpz)
+* [Codeforces](codeforces.com/profile/veydpz)

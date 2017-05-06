@@ -2,44 +2,30 @@
 layout: default
 ---
 
-## About Me
+## Curriculum vitae
 
 <img class="profile-picture" src="img/New_Profile_Picture.png">
 
-Hi! 
+* [Seoul National University](http://en.snu.ac.kr) <small>2017-now</small>
+	* B.S. Student
+	* Major in [Physics](http://physics.snu.ac.kr)
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+* [KTUG](http://www.ktug.org) <small>2017-now</small>
+	* Executive Staff
 
-## Research Interest
+* [한성 노벨 영수재 장학생회](http://www.sonjaehan.org) <small>2015-now</small>
+	* 제 2기 제 2조 조장
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+* [경기과학고등학교](http://www.gs.hs.kr) <small>2014-2017</small>
+	* 2016 경기과학고 연구대상 <small>2017</small>
+	* [경기과학고 텍 사용자협회](http://latex.gs.hs.kr) 제 1대 회장 <small>2015.12-2017.2</small>
+	* 물리인증제 물리마스터 <small>2016</small>
+	* IPhO 2016 - South Korea team candidate <small>2016</small>
+	* 22th Humantech Paper Award - Silver Prize <small>2016</small>
+	* 교내 수학과학 창의력대회 <small>2014, 2015</small>
+		* 2014 수학 은상, 물리 대상
+		* 2015 수학 금상, 물리 대상
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* No publications made yet.
