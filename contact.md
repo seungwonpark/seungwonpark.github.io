@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Seungwon Park - Contact
 is_contact: true
 ---
 
