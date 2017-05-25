@@ -14,7 +14,11 @@
         <!-- Pages -->
         {% for page in site.pages %}
           {% if page.title and page.url != "/" %}
-            <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
+            {% if page.headname %}
+              <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.headname }}</a>
+            {% else %}
+              <a class="page-link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
+            {% endif %}
           {% endif %}
         {% endfor %}
 

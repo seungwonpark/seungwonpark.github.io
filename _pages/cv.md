@@ -2,6 +2,7 @@
 layout: page
 permalink: /cv/
 title: Curriculum Vitae
+headname: CV
 description: Seungwon Park's curriculum vitae
 ---
 
@@ -25,8 +26,3 @@ description: Seungwon Park's curriculum vitae
 	* 교내 수학과학 창의력대회 <small>2014, 2015</small>
 		* 2014 수학 은상, 물리 대상
 		* 2015 수학 금상, 물리 대상
-
-## Publications
-
-* No publications made yet.
-
