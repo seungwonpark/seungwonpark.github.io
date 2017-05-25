@@ -1,12 +1,12 @@
 ---
 layout: about
 permalink: /
-title: your name
+title: Seungwon Park
 description: <a href="http://en.snu.ac.kr">Seoul National University</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 2016-04-seungwonpark.jpg
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
