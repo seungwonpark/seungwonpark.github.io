@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: your name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="http://en.snu.ac.kr">Seoul National University</a>. 
 
 profile:
   align: right
