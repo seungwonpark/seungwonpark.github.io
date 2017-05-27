@@ -21,7 +21,7 @@ description: Seungwon Park's curriculum vitae
 	* 2016 경기과학고 연구대상 <small>2017</small>
 	* [경기과학고 텍 사용자협회](http://latex.gs.hs.kr) 제 1대 회장 <small>2015.12-2017.2</small>
 	* 물리인증제 물리마스터 <small>2016</small>
-	* IPhO 2016 - South Korea team candidate <small>2016</small>
+	* IPhO 2016 - South Korean team candidate <small>2016</small>
 	* 22th Humantech Paper Award - Silver Prize <small>2016</small>
 	* 교내 수학과학 창의력대회 <small>2014, 2015</small>
 		* 2014 수학 은상, 물리 대상

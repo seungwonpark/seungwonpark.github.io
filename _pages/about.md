@@ -14,7 +14,7 @@ news: true
 social: true
 ---
 
-I'm studying physics in Seoul National University since 2017.
+I'm studying physics at Seoul National University since 2017.
 Currently, as a freshman, I'm studying hard on physics and my research interest is still pending.
 
 I'm also interested in computer science.
