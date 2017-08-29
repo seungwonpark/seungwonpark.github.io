@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My new blog has just been opened
+title: My new blog
 date: 2017-05-29 22:22:16
 description: blogging, open, domain, new
 ---
