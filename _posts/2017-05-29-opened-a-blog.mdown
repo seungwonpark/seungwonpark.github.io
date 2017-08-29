@@ -1,0 +1,33 @@
+---
+layout: post
+title: My new blog has just been opened
+date: 2017-05-29 22:22:16
+description: blogging, open, domain, new
+---
+Since 2015, I started using [https://seungwonpark.github.io](https://seungwonpark.github.io) as my own homepage,
+just as my friend, [Juno Nam](https://github.com/recisic), had made his own site using [Bootstrap](http://getbootstrap.com/).
+That was my very first experience on HTML, and therefore the homepage was meaningless stack of
+HTML examples from [W3Schools](https://www.w3schools.com/).
+
+However, I observed that some of my seniors and friends were using their own homepage for academic purpose.
+Their homepage's domain was also unique and short, which was memorable.
+Moreover, I've heard from [Geonho Leem](https://github.com/DaebangStn) that we can buy our own domain(1 year expiry)
+with only $3 at [GoDaddy](https://godaddy.com).
+That was when I decided to rebuild my homepage for academic purpose, and buy my own domain `swpark.me`.
+
+Currently, this homepage - `swpark.me` - is being hosted by GitHub Pages.
+Actually, it's just a custom domain for `github.io`.
+I expect to use this homepage for more than 10 years - for academic purpose.
+I shall upload my CV, notes, and publications at here from now on.
+
+<hr>
+<br/>
+
+<blockquote>
+	늦었다고 생각할 때가 가장 빠른 때이다.
+	-???
+</blockquote>
+<blockquote>
+	늦었다고 생각할 땐 너무 늦은 거다. 그러니 지금 당장 시작해라.
+	-박명수
+</blockquote>
