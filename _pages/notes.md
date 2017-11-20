@@ -11,7 +11,7 @@ Here are some of my public notes/presentation slides:
 * SKP-joint Seminar
 	* 2017: [Graphing/Drawing Tools for Physics Research](2017SKPjoint-SNU-Graphing,Drawing%20Tools%20for%20Physics%20Research.pdf)
 * KTUG workshop
-	* 2017: [TikZ 기초](2017workshop-TikZ-intro.zip) @ [KTUG wiki](http://wiki.ktug.org/wiki/wiki.php/LaTeXWorkshop/2017#s-3)
+	* 2017: TikZ 기초 - [zip file with examples](2017workshop-TikZ-intro.zip) [pdf](2017KNUworkshop-tikz-intro.pdf) @ [KTUG wiki](http://wiki.ktug.org/wiki/wiki.php/LaTeXWorkshop/2017#s-3)
 
 <hr>
 <br/>
