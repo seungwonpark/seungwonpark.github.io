@@ -20,6 +20,7 @@ And some miscellaneous works:
 
 * 2017
   * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar)
+  * [Physics Writing Guide for Olympiad](For-KPhO-Newbies-compressed.pdf)
 * 2016
   * [고등학교에서 함께 배우며 즐긴 LaTeX](2017KTSbook-swpark.pdf)
   * [Oscillation_in_One_page.pdf](../Oscillation_in_One_page.pdf)
