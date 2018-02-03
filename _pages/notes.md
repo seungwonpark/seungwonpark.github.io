@@ -12,6 +12,8 @@ Here are some of my public notes/presentation slides:
   * 2017: [Graphing/Drawing Tools for Physics Research](2017SKPjoint-SNU-Graphing,Drawing%20Tools%20for%20Physics%20Research.pdf)
 * KTUG workshop
   * 2017: TikZ 기초(in Korean) - [zip(with examples)](2017workshop-TikZ-intro.zip) / [pdf](2017KNUworkshop-tikz-intro.pdf) @ [KTUG wiki](http://wiki.ktug.org/wiki/wiki.php/LaTeXWorkshop/2017#s-3)
+* KTS conference
+  * [2018: 원근감을 살린 TeX Graphics](2018KTUGconf-perspectiveTikZ.pdf) (in Korean) @ [KTUG wiki](http://wiki.ktug.org/wiki/wiki.php/KTSConference/2018)
 
 <hr>
 <br/>
