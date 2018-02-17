@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2018-02-17 18:02:00+0900
 inline: true
 ---
 
-A simple inline announcement.
+Nothing new here, yet.
