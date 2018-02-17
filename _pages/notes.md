@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /notes/
-title: Notes
-headname: Notes
+title: notes
+headname: notes
 description: Notes of Seungwon Park
 ---
 
