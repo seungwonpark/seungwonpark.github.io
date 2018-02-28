@@ -15,16 +15,15 @@ description: Seungwon Park's curriculum vitae
   *  Gyeonggi Science High School for the gifted
 
 
-# Researches and Projects
-
-### GSHS Research
+# Research
 
 * Feedback Control of Forces Air-Cooling Speed for Prevention of SCP's Overheating <small>2016</small>
   * GSHS best research award on physics
 * SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 [Hyoungjoo Kim, Seungwon Park, Luong Anh Tuan, Hyungpil Moon]<small>2015</small>
   * 22th Samsung Humantech Paper Award - Silver Prize
 
-### Open Source Contribution
+# Open Source Contribution
+
 * [GSHS TeX Society](http://latex.gs.hs.kr)
   * Server Admin (Jekyll, PHP, CentOS)
   * Developer, Educator (LaTeX)
@@ -43,16 +42,14 @@ description: Seungwon Park's curriculum vitae
 
 # Honors and Awards
 
-### Scholarships
+- Scholarships
+  * 대통령과학장학금 <small>2017 - now</small>
+    * Presidential scholarship on science
+  * 한성 노벨 영수재 장학생 <small>2015 - 2016</small>
 
-* 대통령과학장학금 <small>2017 - now</small>
-  * Presidential scholarship on science
-* 한성 노벨 영수재 장학생 <small>2015 - 2016</small>
+- Physics
+  * IPhO - South Korean team candidate <small>2016</small>
+  * 물리인증제 물리마스터 | 고전역학, 전자기학, 양자역학, 열및통계, 광학 <small>2014 - 2016</small>
 
-### Physics
-* IPhO - South Korean team candidate <small>2016</small>
-* 물리인증제 물리마스터 | 고전역학, 전자기학, 양자역학, 열및통계, 광학 <small>2014 - 2016</small>
-
-### Competitive Programming
-
-* [SNUPC 2017](http://snups.snucse.org/snupc2017/) | 2nd place on Div.2
+- Competitive Programming
+  * [SNUPC 2017](http://snups.snucse.org/snupc2017/) | 2nd place on Div.2
