@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated: 2018.03.01
+description: Last updated 2018.03.01
 ---
 
 # Education
