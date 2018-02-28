@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Seungwon Park's curriculum vitae
+description: Last updated: 2018.03.01
 ---
 
 # Education
@@ -17,9 +17,10 @@ description: Seungwon Park's curriculum vitae
 
 # Research
 
-* Feedback Control of Forces Air-Cooling Speed for Prevention of SCP's Overheating <small>2016</small>
+Disclaimer: None of those are published.​
+* Feedback Control of Forces Air-Cooling Speed for Prevention of SCP's Overheating <small>2016, [**박승원**, 오정현]</small>
   * GSHS best research award on physics
-* SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 [Hyoungjoo Kim, Seungwon Park, Luong Anh Tuan, Hyungpil Moon]<small>2015</small>
+* SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
   * 22th Samsung Humantech Paper Award - Silver Prize
 
 # Open Source Contribution
@@ -34,6 +35,7 @@ description: Seungwon Park's curriculum vitae
 # Extracurricular Activities
 
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
+  * Informatics seminar of two physics students and one chemistry student
 * [Korean TeX Society](http://www.ktug.org) <small>2017 - now</small>
   * Executive Staff
   * See my talks on seminar/workshop at [notes](/notes).
@@ -42,14 +44,14 @@ description: Seungwon Park's curriculum vitae
 
 # Honors and Awards
 
-- Scholarships
-  * 대통령과학장학금 <small>2017 - now</small>
-    * Presidential scholarship on science
-  * 한성 노벨 영수재 장학생 <small>2015 - 2016</small>
-
 - Physics
   * IPhO - South Korean team candidate <small>2016</small>
   * 물리인증제 물리마스터 | 고전역학, 전자기학, 양자역학, 열및통계, 광학 <small>2014 - 2016</small>
 
 - Competitive Programming
   * [SNUPC 2017](http://snups.snucse.org/snupc2017/) | 2nd place on Div.2
+
+- Scholarship
+  * 대통령과학장학금 <small>2017 - now</small>
+    * Presidential scholarship on science
+  * 한성 노벨 영수재 장학생 <small>2015 - 2016</small>
