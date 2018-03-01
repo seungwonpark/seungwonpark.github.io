@@ -46,10 +46,10 @@ Disclaimer: None of those are published.​
 
 - Physics
   * IPhO - South Korean team candidate <small>2016</small>
-  * 물리인증제 물리마스터 | 고전역학, 전자기학, 양자역학, 열및통계, 광학 <small>2014 - 2016</small>
+  * 물리인증제 물리마스터 - 고전역학, 전자기학, 양자역학, 열및통계, 광학 <small>2014 - 2016</small>
 
 - Competitive Programming
-  * [SNUPC 2017](http://snups.snucse.org/snupc2017/) | 2nd place on Div.2
+  * [SNUPC 2017](http://snups.snucse.org/snupc2017/) - 2nd place on Div.2
 
 - Scholarship
   * 대통령과학장학금 <small>2017 - now</small>
