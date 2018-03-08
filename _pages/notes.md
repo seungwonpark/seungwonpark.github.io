@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /notes/
-title: notes/talks
+title: notes / talks
 headname: notes/talks
 description: Notes/Talks of Seungwon Park
 ---
