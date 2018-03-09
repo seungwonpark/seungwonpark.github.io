@@ -3,13 +3,14 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2018.03.01
+description: Last updated 2018.03.09
 ---
 
 # Education
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 - now</small>
   * Pursuing a BS degree in Physics
+  * Planning to double major in Computer Science Engineering <small>2018 3Q</small>
 
 * [경기과학고등학교(GSHS)](http://www.gs.hs.kr) <small>2014 - 2017.2</small>
   *  Gyeonggi Science High School for the gifted
@@ -30,7 +31,7 @@ Disclaimer: None of those are published.​
   * Developer, Educator (LaTeX)
 * Other miscellaneous projects are shown in [my GitHub profile](https://github.com/seungwonpark). 
   * Specialist: LaTeX
-  * Candidate Specialist(?): C++, Python
+  * Candidate Specialist: C++, Python
 
 # Extracurricular Activities
 
