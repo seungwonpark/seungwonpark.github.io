@@ -6,8 +6,8 @@ description: <a href="http://physics.snu.ac.kr">Dept. of Physics & Astronomy</a>
 
 profile:
   align: right
-  image: 2016-04-seungwonpark.jpg
-  address: >
+  image: 201802.jpg
+  address: Me talking at 2018 KTS conf.
     <p></p>
 
 news: true
