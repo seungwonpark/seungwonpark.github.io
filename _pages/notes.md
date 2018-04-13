@@ -6,7 +6,7 @@ headname: notes/talks
 description: Notes/Talks of Seungwon Park
 ---
 
-Here are some of my public notes and talks:
+# Public Notes/Talks
 
 * SKP-joint Seminar
   * 2017: [Graphing/Drawing Tools for Physics Research](2017SKPjoint-SNU-Graphing,Drawing%20Tools%20for%20Physics%20Research.pdf)
@@ -15,9 +15,7 @@ Here are some of my public notes and talks:
 * KTS conference
   * [2018: 원근감을 살린 TeX Graphics](2018KTUGconf-perspectiveTikZ.pdf) (in Korean) @ [KTUG wiki](http://wiki.ktug.org/wiki/wiki.php/KTSConference/2018) @ [산업수학혁신센터](https://icim.nims.re.kr/post/workshop/521)
 
-<br/>
-
-And some miscellaneous works:
+# Misc. Works
 
 * 2017
   * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar)
