@@ -15,7 +15,6 @@ Here are some of my public notes and talks:
 * KTS conference
   * [2018: 원근감을 살린 TeX Graphics](2018KTUGconf-perspectiveTikZ.pdf) (in Korean) @ [KTUG wiki](http://wiki.ktug.org/wiki/wiki.php/KTSConference/2018) @ [산업수학혁신센터](https://icim.nims.re.kr/post/workshop/521)
 
-<hr>
 <br/>
 
 And some miscellaneous works:
