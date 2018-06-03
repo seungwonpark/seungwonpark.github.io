@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/veydpz
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://swpark.me
+  * I am veydpz (https://keybase.io/veydpz) on keybase.
+  * I have a public key ASDCtDMnApPfO6OroOaw5qsDgj4tk-TUyL8kmVLwftWZJgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c2b433270293df3ba3aba0e6b0e6ab03823e2d93e4d4c8bf249952f07ed599260a",
+      "host": "keybase.io",
+      "kid": "0120c2b433270293df3ba3aba0e6b0e6ab03823e2d93e4d4c8bf249952f07ed599260a",
+      "uid": "8414153b2c5d236411243411da2fa519",
+      "username": "veydpz"
+    },
+    "merkle_root": {
+      "ctime": 1528033151,
+      "hash": "dce9e75d16d9bf7be8557cb19e1f67f7fc52f51849c7c04f98fe29bc9ea55d541df33cc3a047d81058761ecb9fcbcf954c4f104cdd4e6818e0289da35b76d3a4",
+      "hash_meta": "4b0827e8b718183022d08ede91ce148e15ad6290e58d6a1d9ede7babfa3edb95",
+      "seqno": 2984896
+    },
+    "service": {
+      "entropy": "x4VsViYfGkJDH4/9hiN+6aZN",
+      "hostname": "swpark.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.48"
+  },
+  "ctime": 1528033185,
+  "expire_in": 504576000,
+  "prev": "b2d9797ea2a27d49ef06199a2ec3880c3ea9cf85503e1b60b2a03f85e40617a2",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwrQzJwKT3zujq6DmsOarA4I+LZPk1Mi/JJlS8H7VmSYKp3BheWxvYWTESpcCCsQgstl5fqKifUnvBhmaLsOIDD6pz4VQPhtgsqA/heQGF6LEIJURm/XiiHQ9BXRSImuOqw2ptpjppkTlNpPkuxo7sq2jAgHCo3NpZ8RA/6/37HhZRsEfxugHviorA6l/TFcsKKtJSbrIH5OWxqjxaL4F/vn4X+YKT3090F201lufQdycTIsRTumJOfILBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKMiogqczK7qNP+0z2aOh4Lb48s7atR5PzjvmEaHxA/1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/veydpz
+
+==================================================================
