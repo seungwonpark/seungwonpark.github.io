@@ -84,7 +84,5 @@ Disclaimer: None of those are published.​
 
 # Miscellaneous
 
-* Languages
-  * English (fluent), Korean (fluent)
-* Citizenship
-  * Republic of Korea
+* Languages: English (fluent), Korean (fluent)
+* Citizenship: Republic of Korea
