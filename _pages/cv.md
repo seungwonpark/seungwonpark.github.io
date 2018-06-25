@@ -9,10 +9,8 @@ description: Last updated 2018.03.09
 # Seungwon Park (박승원)
 
 * E-mail: yyyyy (at) snu (dot) ac (dot) kr
-
-  * *Why so many 'y's?* - I love to ask why (pronounced like 'y') something happens!
-
-* Webpage: http://swpark.me
+  * *Why so many 'y's?*: I love to ask why (pronounced like 'y') something happens!
+* Webpage: [swpark.me](http://swpark.me)
 
 # Education
 
@@ -32,7 +30,6 @@ Disclaimer: None of those are published.​
   * 22th Samsung Humantech Paper Award - Silver Prize
 
 1. Feedback Control of Forces Air-Cooling Speed for Prevention of SCP's Overheating <small>2016, [**박승원**, 오정현]</small>
-
   * One of the first attempts to feedback control the SCP's cooling speed 
   * GSHS best research award on physics
 
@@ -45,11 +42,11 @@ Disclaimer: None of those are published.​
     * Classical Mechanics, Electromagnetics, Quantum Mechanics, Thermodynamic & Statistical physics, Optics
     * 물리인증제 물리마스터 - 고전역학, 전자기학, 양자역학, 열및통계, 광학
 
-- Competitive Programming
+* Competitive Programming
   * [SNUPC 2017](http://snups.snucse.org/snupc2017/) - 2nd place on Div.2 <small> 2017 </small>
   * Codeforces rating: approx. 1700 (blue) [as of Jun. 2018](http://codeforces.com/profile/seungwon)
 
-- Scholarship
+* Scholarship
   * 대통령과학장학금 <small>2017 - now</small>
     * Presidential scholarship on science
   * 한성 노벨 영수재 장학생 <small>2015 - 2016</small>
@@ -78,19 +75,15 @@ Disclaimer: None of those are published.​
 # Computer Skills
 
 * Highly experienced in LaTeX typesetting
-
 * Experienced with Linux command (Ubuntu, CentOS, Raspbian)
-
 * Familiar with GitHub platform
-
 * Proficient in C++/Python
-
   * Algorithm, Scientific calculation, Work automation, etc.
 * Simple skills on Web Development (HTML, PHP, Jekyll)
 
 # Miscellaneous
 
-- Languages
-  - English (fluent), Korean (fluent)
-- Citizenship
-  - Republic of Korea
+* Languages
+  * English (fluent), Korean (fluent)
+* Citizenship
+  * Republic of Korea
