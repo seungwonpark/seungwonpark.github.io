@@ -11,6 +11,7 @@ description: Last updated 2018.03.09
 * E-mail: yyyyy (at) snu (dot) ac (dot) kr
   * *Why so many 'y's?* – I love to ask why (pronounced like 'y') something happens!
 * Webpage: [swpark.me](http://swpark.me)
+* GitHub: [seungwonpark](https://github.com/seungwonpark)
 
 # Education
 
