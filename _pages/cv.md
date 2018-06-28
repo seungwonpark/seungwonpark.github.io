@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2018.06.26
+description: Last updated 2018.06.28
 ---
 
 # Seungwon Park (박승원)
@@ -13,7 +13,10 @@ description: Last updated 2018.06.26
 * Webpage: [swpark.me](http://swpark.me)
 * GitHub: [seungwonpark](https://github.com/seungwonpark)
 
-# Education
+# Education / Work
+
+* [MindsLab](http://mindslab.ai/) <small>2018.6 – now</small>
+  * AI research intern
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
   * Pursuing a BS degree in Physics
