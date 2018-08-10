@@ -19,7 +19,7 @@ description: Last updated 2018.06.28
   * AI research intern: Working on Korean newspaper summarization, etc.
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
-  * Pursuing a BS degree in Physics: current GPA 4.03/4.3
+  * Pursuing a BS degree in Physics <small>GPA 4.03/4.3</small>
   * Planning to double major in Computer Science Engineering <small>Expected: 2018.9</small>
 
 * [경기과학고등학교(GSHS)](http://www.gs.hs.kr) <small>2014 – 2017.2</small>
