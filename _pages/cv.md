@@ -16,14 +16,14 @@ description: Last updated 2018.06.28
 # Education / Work
 
 * [MindsLab](http://mindslab.ai/) <small>2018.6 – now</small>
-  * AI research intern
+  * AI research intern: Working on Korean newspaper summarization, etc.
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
-  * Pursuing a BS degree in Physics
+  * Pursuing a BS degree in Physics: current GPA 4.03/4.3
   * Planning to double major in Computer Science Engineering <small>Expected: 2018.9</small>
 
 * [경기과학고등학교(GSHS)](http://www.gs.hs.kr) <small>2014 – 2017.2</small>
-  *  Gyeonggi Science High School for the gifted
+  *  Got first award on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in same school
 
 
 # Research
@@ -47,8 +47,8 @@ Disclaimer: None of those are published.​
     * 물리인증제 물리마스터 – 고전역학, 전자기학, 양자역학, 열및통계, 광학
 
 * Competitive Programming
-  * [SNUPC 2017](http://snups.snucse.org/snupc2017/) – 2nd place on Div.2 <small> 2017 </small>
-  * Codeforces rating: approx. 1700 (blue) [as of Jun. 2018](http://codeforces.com/profile/seungwon)
+  * [UCPC 2018](https://2018.ucpc.io/) - 14th place
+  * [SNUPC 2017](http://snups.snucse.org/snupc2017/) – 2nd place on Div.2
 
 * Scholarship
   * 대통령과학장학금 <small>2017 – now</small>
@@ -78,12 +78,13 @@ Disclaimer: None of those are published.​
 
 # Computer Skills
 
-* Highly experienced in LaTeX typesetting
-* Experienced with Linux command (Ubuntu, CentOS, Raspbian)
+* Highly experienced in LaTeX typesetting / educating
+* Familiar with Linux utilities
 * Familiar with GitHub platform
 * Proficient in C++/Python
-  * Algorithm, Scientific calculation, Work automation, etc.
+  * Algorithm, Scientific calculation, Work automation, Tensorflow, etc.
 * Simple skills on Web Development (HTML, PHP, Jekyll)
+  * Highly experienced in web crawling
 
 # Miscellaneous
 
