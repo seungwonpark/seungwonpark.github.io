@@ -6,3 +6,6 @@ description: Publications by categories in reversed chronological order. Generat
 years: [1956, 1950, 1935, 1905]
 ---
 
+No publication was made yet :)
+
+Currently, I'm editing a manuscript for [The Physics Teacher](https://aapt.scitation.org/journal/pte), which was submitted on 2017.8 and rejected on 2018.6.
