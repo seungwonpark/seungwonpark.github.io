@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2018.08.19
+description: Last updated 2018.09.15
 ---
 
 # Seungwon Park (박승원)
@@ -68,7 +68,7 @@ Disclaimer: None of those are published.​
 # Extracurricular Activities
 
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
-  * Informatics seminar of two physics students and one chemistry student
+  * CS seminar of two physics students and one chemistry student
 * [Korean TeX Society](http://www.ktug.org) <small>2017 – now</small>
   * Executive Staff
   * See my talks on seminar/workshop at [notes](/notes).
@@ -81,7 +81,7 @@ Disclaimer: None of those are published.​
 * Highly experienced in LaTeX typesetting / educating
 * Familiar with Linux utilities
 * Familiar with GitHub platform
-* Proficient in C++/Python
+* Proficient in Python
   * Algorithm, Scientific calculation, Work automation, Tensorflow, etc.
 * Simple skills on Web Development (HTML, PHP, Jekyll)
   * Highly experienced in web crawling
