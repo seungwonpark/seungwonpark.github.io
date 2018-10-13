@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2018.09.15
+description: Last updated 2018.10.14
 ---
 
 # Seungwon Park (박승원)
@@ -15,7 +15,7 @@ description: Last updated 2018.09.15
 
 # Education / Work
 
-* [MindsLab](http://mindslab.ai/) <small>2018.6 – now</small>
+* [MindsLab](http://mindslab.ai/) <small>2018.6 – 2018.08</small>
   * AI research intern: Working on Korean news article summarization, etc.
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
@@ -23,7 +23,7 @@ description: Last updated 2018.09.15
   * Double majoring in CS <small>(GPA 3.30/4.30)</small>
 
 * [경기과학고등학교(GSHS)](http://www.gs.hs.kr) <small>2014 – 2017.2</small>
-  *  Got first award on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in same school
+  *  Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in same school
 
 
 # Research
