@@ -16,7 +16,7 @@ description: Last updated 2018.10.14
 # Education / Work
 
 * [MindsLab](http://mindslab.ai/) <small>2018.6 – 2018.08</small>
-  * AI research intern: Working on Korean news article summarization, etc.
+  * AI research intern: Worked on Korean news article summarization
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
   * Pursuing a BS degree in Physics <small>(GPA 4.03/4.30)</small>
