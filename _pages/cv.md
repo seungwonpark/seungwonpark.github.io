@@ -23,7 +23,8 @@ description: Last updated 2018.10.14
   * Double majoring in CS <small>(GPA 3.30/4.30)</small>
 
 * [경기과학고등학교(GSHS)](http://www.gs.hs.kr) <small>2014 – 2017.2</small>
-  *  Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in same school
+  * Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in same school
+  * Attended research program under supervision of Luong Anh Tuan & Prof. Hyungpil Moon at [RISE Lab.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.4 – 2015.12</small>
 
 
 # Research
