@@ -24,7 +24,7 @@ description: Last updated 2018.12.03
 
 * [경기과학고등학교(GSHS)](http://www.gs.hs.kr) <small>2014 – 2017.2</small>
   * Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in same school
-  * Attended research program under supervision of Luong Anh Tuan & Prof. Hyungpil Moon at [RISE Lab.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.4 – 2015.12</small>
+  * Proposed and conducted research project as intern under supervision of Luong Anh Tuan & Prof. Hyungpil Moon at [RISE Lab.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.4 – 2015.12</small>
 
 
 # Research
