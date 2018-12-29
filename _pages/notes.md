@@ -14,7 +14,7 @@ description: Notes/Talks of Seungwon Park
   * [원근감을 살린 TeX Graphics](2018KTUGconf-perspectiveTikZ.pdf) @ [2018 KTS conf.](http://wiki.ktug.org/wiki/wiki.php/KTSConference/2018) (in Korean)
 * 2017
   * TikZ 기초(in Korean) - [zip(with examples)](2017workshop-TikZ-intro.zip) / [pdf](2017KNUworkshop-tikz-intro.pdf) @ [2017 KTUG workshop](http://wiki.ktug.org/wiki/wiki.php/LaTeXWorkshop/2017#s-3) (in Korean)
-  * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar)
+  * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) @ SNU
   * [Graphing/Drawing Tools for Physics Research](2017SKPjoint-SNU-Graphing,Drawing%20Tools%20for%20Physics%20Research.pdf) @ 2017 SNU+KAIST+POSTECH joint undergrad. phys. seminar
 
 
