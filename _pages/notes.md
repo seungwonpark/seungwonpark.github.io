@@ -17,6 +17,8 @@ description: Notes/Talks of Seungwon Park
 
 # Misc. Works
 
+* 2018
+  * [TeX: Maximizing document work efficiency](http://swpark.me/tex-lecture/) (in Korean)
 * 2017
   * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar)
   * [Physics Writing Guide for Olympiad](For-KPhO-Newbies-compressed.pdf) (in Korean)
