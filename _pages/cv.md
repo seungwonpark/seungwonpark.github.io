@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2018.12.03
+description: Last updated 2019.01.02
 ---
 
 # Seungwon Park (박승원)
@@ -15,8 +15,8 @@ description: Last updated 2018.12.03
 
 # Education / Work
 
-* [MindsLab](http://mindslab.ai/) <small>2018.6 – 2018.08</small>
-  * AI research intern: Worked on Korean news article summarization
+* [MindsLab](http://mindslab.ai/) <small>2018.6 – now</small>
+  * AI research intern
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
   * Pursuing a BS degree in Physics <small>(GPA 4.03/4.30)</small>
@@ -68,11 +68,12 @@ Disclaimer: None of those are published.​
 
 # Extracurricular Activities
 
+* [Deepest](http://deepest.ai/) <small> 2019 - now</small>
+  * SNU Deep Learning Society
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
   * CS seminar of two physics students and one chemistry student
 * [Korean TeX Society](http://www.ktug.org) <small>2017 – now</small>
   * Executive Staff
-  * See my talks on seminar/workshop at [notes](/notes).
 * [GSHS TeX Society](http://latex.gs.hs.kr) <small>2015.12 – 2017.2</small>
   * Founder, 1st president
 
