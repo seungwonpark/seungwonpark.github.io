@@ -92,3 +92,4 @@ Disclaimer: None of those are published.​
 
 * Languages: English (fluent), Korean (native)
 * Citizenship: Republic of Korea
+ 
