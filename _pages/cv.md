@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2019.01.02
+description: Last updated 2019.02.14
 ---
 
 # Seungwon Park (박승원)
@@ -16,11 +16,13 @@ description: Last updated 2019.01.02
 # Education / Work
 
 * [MindsLab](http://mindslab.ai/) <small>2018.6 – now</small>
-  * AI research intern
+  * AI Scientist
+  * Working as a substitute of mandatory military service <small>2019.2 – 2021.2</small>
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
-  * Pursuing a BS degree in Physics <small>(GPA 4.03/4.30)</small>
-  * Double majoring in CS <small>(GPA 3.30/4.30)</small>
+  * Currently in temporary absence for mandatory military service
+  * Pursuing a BS degree in Physics <small>(GPA 3.91/4.30)</small>
+  * Double majoring in CS <small>(GPA 3.06/4.30)</small>
 
 * [경기과학고등학교(GSHS, Gyeonggi Science High School for the Gifted)](http://www.gs.hs.kr) <small>2014 – 2017.2</small>
   * Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in same school
@@ -84,7 +86,7 @@ Disclaimer: None of those are published.​
 * Familiar with Linux utilities
 * Familiar with GitHub platform
 * Proficient in Python
-  * Algorithm, Scientific calculation, Work automation, Tensorflow, etc.
+  * Deep Learning(TF, torch), Algorithm, Scientific calculation, Work automation, etc.
 * Simple skills on Web Development (HTML, PHP, Jekyll)
   * Highly experienced in web crawling
 
