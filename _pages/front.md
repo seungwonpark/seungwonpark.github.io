@@ -18,7 +18,7 @@ Hello there!
 
 I'm studying physics & CS at Seoul National University since 2017.
 Currently, I'm really interested in deep learning and working as
-AI scientist in [MindsLab](https://mindslab.ai) as a substitute of mandatory military service.
+an AI scientist in [MindsLab](https://mindslab.ai) as a substitute of mandatory military service.
 Still wondering why there are so many AI scientists who had once majored physics.
 
 I haven't done anything special in physics career since I came SNU, yet.
