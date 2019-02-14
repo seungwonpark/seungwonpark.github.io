@@ -14,10 +14,13 @@ news: true
 social: true
 ---
 
-I'm studying physics at Seoul National University since 2017.
-Currently, as a sophomore, I'm studying hard on physics and my research interest is still pending.
+Hello there!
 
-I'm also passionate about computer science — I'm double majoring in CS since 2018.
-Most of my works are published on [GitHub](https://github.com/seungwonpark).
+I'm studying physics & CS at Seoul National University since 2017.
+Currently, I'm really interested in deep learning and working as
+AI scientist in [MindsLab](https://mindslab.ai) as a substitute of mandatory military service.
+Still wondering why there are so many AI scientists who had once majored physics.
 
-My dream is to be a professional physicist and make a happier world with my works on physics.
+I haven't done anything special in physics career since I came SNU, yet.
+See my works on CS at [GitHub](https://github.com/seungwonpark) if you're interested.
+Most of them are related to LaTeX, CP(Competitive Programming), and DL(Deep Learning).
