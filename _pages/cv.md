@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2019.02.14
+description: Last updated 2019.03.18
 ---
 
 # Seungwon Park (박승원)
@@ -25,8 +25,8 @@ description: Last updated 2019.02.14
   * Double majoring in CS <small>(GPA 3.06/4.30)</small>
 
 * [경기과학고등학교(GSHS, Gyeonggi Science High School for the Gifted)](http://www.gs.hs.kr) <small>2014 – 2017.2</small>
-  * Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in same school
-  * Proposed and conducted research project as intern at [RISE Lab.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.4 – 2015.12</small>
+  * Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in school
+  * Proposed and conducted research project as intern at [RISE Lab. @ Sungkyunkwan Univ.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.4 – 2015.12</small>
 
 
 # Research
@@ -65,8 +65,8 @@ Disclaimer: None of those are published.​
   * Server Admin (Jekyll, PHP, CentOS)
   * Developer, Educator (LaTeX)
 * Other miscellaneous projects are shown in [my GitHub profile](https://github.com/seungwonpark). 
-  * Specialist: LaTeX
-  * Candidate Specialist: C++, Python
+  * Specialist: LaTeX, Python
+  * Novice: C++
 
 # Extracurricular Activities
 
@@ -83,10 +83,9 @@ Disclaimer: None of those are published.​
 # Computer Skills
 
 * Highly experienced in LaTeX typesetting / educating
-* Familiar with Linux utilities
-* Familiar with GitHub platform
+* Familiar with `*nix` utilities, GitHub
 * Proficient in Python
-  * Deep Learning(TF, torch), Algorithm, Scientific calculation, Work automation, etc.
+  * Deep Learning(PyTorch, TF), Algorithm, Scientific calculation, Work automation, etc.
 * Simple skills on Web Development (HTML, PHP, Jekyll)
   * Highly experienced in web crawling
 
