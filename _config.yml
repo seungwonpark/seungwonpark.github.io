@@ -13,14 +13,14 @@ baseurl: # the subpath of your site, e.g. /blog/
 # Social
 github_username: seungwonpark # put your github username
 twitter_username: veydpz_public
-linkedin_username: # put your linkedin username
+linkedin_username: veydpz # put your linkedin username
 scholar_authorid: RC_SlDYAAAAJ
 facebook_username: veydpz
 telegram_username: seungwonpark
 codeforces_handle: seungwon
 kaggle_handle: seungwonpark
 contact_note: >
-  Email / Google Scholar / GitHub / Twitter / Facebook
+  Email / Google Scholar / GitHub / LinkedIn / Twitter / Facebook
 
 # Footer text
 footer_text: >
