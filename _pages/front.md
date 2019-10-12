@@ -6,21 +6,14 @@ description: <a href="http://physics.snu.ac.kr">Dept. of Physics & Astronomy</a>
 
 profile:
   align: right
-  image: 201802.jpg
-  address: Me talking at 2018 KTS conf.
-    <p></p>
+  image: 201905.jpeg
 
-news: true
 social: true
 ---
 
 Hello there!
 
-I'm studying physics & CS at Seoul National University since 2017.
-Currently, I'm really interested in deep learning and working as
-an AI scientist in [MindsLab](https://mindslab.ai) as a substitute of mandatory military service.
-Still wondering why there are so many AI scientists who had once majored physics.
+I'm physics & CS undergrad. student at Seoul National University.
+Currently, I'm working as an AI scientist in [MindsLab](https://mindslab.ai).
+I love reading & implementing deep learning papers and sharing ideas of them with others.
 
-I haven't done anything special in physics career since I came SNU, yet.
-See my works on CS at [GitHub](https://github.com/seungwonpark) if you're interested.
-Most of them are related to LaTeX, CP(Competitive Programming), and DL(Deep Learning).

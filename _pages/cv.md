@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2019.03.18
+description: Last updated 2019.10.12
 ---
 
 # Seungwon Park (박승원)
@@ -15,8 +15,16 @@ description: Last updated 2019.03.18
 
 # Education / Work
 
-* [MindsLab](http://mindslab.ai/) <small>2018.6 – now</small>
+* [MindsLab](http://mindslab.ai/) <small>2018.6 – 2018.8, 2019.1 – now</small>
   * AI Scientist
+    * Korean news article summarization (NLP)
+    * Text-Independent Speaker Verification (Audio)
+    * Speech Separation + Diarization (Audio)
+    * Speech Enhancement (Audio)
+    * Real-time Neural Text-To-Speech (Audio)
+    * Real-time Video Anomaly Detection (Vision)
+    * … and more exciting projects going on!
+  * Attended [ICASSP 2019](https://2019.ieeeicassp.org), [DLRLSS 2019](https://dlrlsummerschool.ca/), [InterSpeech 2019]([https://www.interspeech2019.org](https://www.interspeech2019.org/))
   * Working as a substitute of mandatory military service <small>2019.2 – 2021.2</small>
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
@@ -44,7 +52,7 @@ Disclaimer: None of those are published.​
 
 - Physics
   * IPhO – South Korean team candidate <small>2016</small>
-  * Passed all 5 BS-level tests on [Physics Certification Exam](http://kphc.kps.or.kr/about/) throughly in high school <small>2014 – 2016</small>
+  * Passed all 5 BS-level tests on [Physics Certification Exam](http://kphc.kps.or.kr/about/) <small>2014 – 2016</small>
     * Operated by [The Korean Physical Society](http://www.kps.or.kr/)
     * Classical Mechanics, Electromagnetics, Quantum Mechanics, Thermodynamic & Statistical physics, Optics
     * 물리인증제 물리마스터 – 고전역학, 전자기학, 양자역학, 열및통계, 광학
@@ -61,17 +69,31 @@ Disclaimer: None of those are published.​
 
 # Open Source Contribution
 
+* [MelNet (WIP)](<https://github.com/Deepest-Project/MelNet>)
+
+  * Trying to implement [MelNet](<https://arxiv.org/abs/1906.01083>), working as a group project @ [Deepest](http://deepest.ai/) 
+
+* [Randomly Wired Neural Network](<https://github.com/seungwonpark/RandWireNN>)
+
+  - First open-source implementation of [Xie et al. (2019)](<https://arxiv.org/abs/1904.01569>)
+
+* [VoiceFilter](<https://github.com/mindslab-ai/voicefilter>)
+
+  * Unofficial PyTorch implementation of Google's [VoiceFilter](<https://arxiv.org/abs/1810.04826>) system. 
+  * This was kindly acknowledged within revision of original paper.
+
 * [GSHS TeX Society](http://latex.gs.hs.kr)
+
   * Server Admin (Jekyll, PHP, CentOS)
   * Developer, Educator (LaTeX)
+
 * Other miscellaneous projects are shown in [my GitHub profile](https://github.com/seungwonpark). 
-  * Specialist: LaTeX, Python
-  * Novice: C++
+
 
 # Extracurricular Activities
 
-* [Deepest](http://deepest.ai/) <small> 2019 - now</small>
-  * SNU Deep Learning Society
+* [Deepest](http://deepest.ai/) <small> 2019 – now</small>
+  * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
   * CS seminar of two physics students and one chemistry student
 * [Korean TeX Society](http://www.ktug.org) <small>2017 – now</small>
@@ -83,7 +105,7 @@ Disclaimer: None of those are published.​
 # Computer Skills
 
 * Highly experienced in LaTeX typesetting / educating
-* Familiar with `*nix` utilities, GitHub
+* Familiar with `*nix` utilities, git, GitHub
 * Proficient in Python
   * Deep Learning(PyTorch, TF), Algorithm, Scientific calculation, Work automation, etc.
 * Simple skills on Web Development (HTML, PHP, Jekyll)
@@ -93,4 +115,4 @@ Disclaimer: None of those are published.​
 
 * Languages: English (fluent), Korean (native)
 * Citizenship: Republic of Korea
- 
+
