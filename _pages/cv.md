@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2019.10.12
+description: Last updated 2019.10.27
 ---
 
 # Seungwon Park (박승원)
@@ -96,7 +96,7 @@ Disclaimer: None of those are published.​
   * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
   * CS seminar of two physics students and one chemistry student
-* [Korean TeX Society](http://www.ktug.org) <small>2017 – now</small>
+* [Korean TeX Society](http://www.ktug.org) <small>2017.3 – 2019.10</small>
   * Executive Staff
 * [GSHS TeX Society](http://latex.gs.hs.kr) <small>2015.12 – 2017.2</small>
   * Founder, 1st president
