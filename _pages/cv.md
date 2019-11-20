@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2019.10.27
+description: Last updated 2019.11.20
 ---
 
 # Seungwon Park (박승원)
@@ -22,9 +22,9 @@ description: Last updated 2019.10.27
     * Speech Separation + Diarization (Audio)
     * Speech Enhancement (Audio)
     * Real-time Neural Text-To-Speech (Audio)
-    * Real-time Video Anomaly Detection (Vision)
     * … and more exciting projects going on!
   * Attended [ICASSP 2019](https://2019.ieeeicassp.org), [DLRLSS 2019](https://dlrlsummerschool.ca/), [InterSpeech 2019]([https://www.interspeech2019.org](https://www.interspeech2019.org/))
+    * Will be attending [NeurIPS 2019](https://neurips.cc/)
   * Working as a substitute of mandatory military service <small>2019.2 – 2021.2</small>
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
@@ -32,7 +32,7 @@ description: Last updated 2019.10.27
   * Pursuing a BS degree in Physics <small>(GPA 3.91/4.30)</small>
   * Double majoring in CS <small>(GPA 3.06/4.30)</small>
 
-* [경기과학고등학교(GSHS, Gyeonggi Science High School for the Gifted)](http://www.gs.hs.kr) <small>2014 – 2017.2</small>
+* [Gyeonggi Science High School for the gifted](http://www.gs.hs.kr) <small>2014 – 2017.2</small>
   * Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in school
   * Proposed and conducted research project as intern at [RISE Lab. @ Sungkyunkwan Univ.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.4 – 2015.12</small>
 
@@ -40,53 +40,46 @@ description: Last updated 2019.10.27
 # Research
 
 Disclaimer: None of those are published.​
-1. SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
-  * Precise feedback control of SCP Artificial Muscle introduced by [Haines et al.(2014)](http://science.sciencemag.org/content/343/6173/868)
-  * 22th Samsung Humantech Paper Award – Silver Prize
+- SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
+    - Precise feedback control of SCP Artificial Muscle introduced by [Haines et al.(2014)](http://science.sciencemag.org/content/343/6173/868)
+    - 22th Samsung Humantech Paper Award – Silver Prize
 
-1. Feedback Control of Forces Air-Cooling Speed for Prevention of SCP's Overheating <small>2016, [**박승원**, 오정현]</small>
-  * One of the first attempts to feedback control the SCP's cooling speed 
-  * GSHS best research award on physics
+- Feedback Control of Forces Air-Cooling Speed for Prevention of SCP's Overheating <small>2016, [**박승원**, 오정현]</small>
+    - One of the first attempts to feedback control the SCP's cooling speed 
+    - GSHS best research award on physics
 
 # Honors and Awards
 
 - Physics
   * IPhO – South Korean team candidate <small>2016</small>
   * Passed all 5 BS-level tests on [Physics Certification Exam](http://kphc.kps.or.kr/about/) <small>2014 – 2016</small>
-    * Operated by [The Korean Physical Society](http://www.kps.or.kr/)
-    * Classical Mechanics, Electromagnetics, Quantum Mechanics, Thermodynamic & Statistical physics, Optics
-    * 물리인증제 물리마스터 – 고전역학, 전자기학, 양자역학, 열및통계, 광학
+    * Operated by [The Korean Physical Society](http://www.kps.or.kr/) - Classical Mechanics, Electromagnetics, Quantum Mechanics, Thermodynamic & Statistical physics, Optics
 
-* Competitive Programming
+* Competitive Programming (Codeforces: veydpz)
   * [UCPC 2018](https://2018.ucpc.io/) - 14th place
   * [SNUPC 2017](http://snups.snucse.org/snupc2017/) – 2nd place on Div.2
 
 * Scholarship
-  * 대통령과학장학금 <small>2017 – now</small>
-    * Presidential scholarship on science
-  * 한성 노벨 영수재 장학생 <small>2015 – 2016</small>
-    * [Hanseong Sonjaehan Scholarship](http://sonjaehan.org/)
+  * Presidential scholarship on science <small>2017 – now</small>
+  * [Hanseong Sonjaehan Scholarship](http://sonjaehan.org/) <small>2015 – 2016</small>
 
 # Open Source Contribution
 
 * [MelNet (WIP)](<https://github.com/Deepest-Project/MelNet>)
-
   * Trying to implement [MelNet](<https://arxiv.org/abs/1906.01083>), working as a group project @ [Deepest](http://deepest.ai/) 
-
+* [MelGAN]( https://github.com/seungwonpark/melgan )
+  * Implementation of [MelGAN](https://arxiv.org/abs/1910.06711).
+  * Reproduced the results of the original paper before the official implementation was released.
 * [Randomly Wired Neural Network](<https://github.com/seungwonpark/RandWireNN>)
-
-  - First open-source implementation of [Xie et al. (2019)](<https://arxiv.org/abs/1904.01569>)
-
+  * First open-source implementation of [Xie et al. (2019)](<https://arxiv.org/abs/1904.01569>)
 * [VoiceFilter](<https://github.com/mindslab-ai/voicefilter>)
 
   * Unofficial PyTorch implementation of Google's [VoiceFilter](<https://arxiv.org/abs/1810.04826>) system. 
   * This was kindly acknowledged within revision of original paper.
-
 * [GSHS TeX Society](http://latex.gs.hs.kr)
 
   * Server Admin (Jekyll, PHP, CentOS)
   * Developer, Educator (LaTeX)
-
 * Other miscellaneous projects are shown in [my GitHub profile](https://github.com/seungwonpark). 
 
 
@@ -94,25 +87,10 @@ Disclaimer: None of those are published.​
 
 * [Deepest](http://deepest.ai/) <small> 2019 – now</small>
   * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
+  * TikZ inverse graphics / MelNet / Neural steganography
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
   * CS seminar of two physics students and one chemistry student
 * [Korean TeX Society](http://www.ktug.org) <small>2017.3 – 2019.10</small>
   * Executive Staff
 * [GSHS TeX Society](http://latex.gs.hs.kr) <small>2015.12 – 2017.2</small>
   * Founder, 1st president
-
-
-# Computer Skills
-
-* Highly experienced in LaTeX typesetting / educating
-* Familiar with `*nix` utilities, git, GitHub
-* Proficient in Python
-  * Deep Learning(PyTorch, TF), Algorithm, Scientific calculation, Work automation, etc.
-* Simple skills on Web Development (HTML, PHP, Jekyll)
-  * Highly experienced in web crawling
-
-# Miscellaneous
-
-* Languages: English (fluent), Korean (native)
-* Citizenship: Republic of Korea
-
