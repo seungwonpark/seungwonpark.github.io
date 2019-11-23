@@ -9,6 +9,7 @@ description: Notes/Talks of Seungwon Park
 # Talks
 
 * 2019
+  * [History of Neural Vocoders for TTS (as of 2019.10)](swpark-DeepestS6-hosting.pdf) @ Deepest Hosting
   * [Speaker Embedding Network & Applications](swpark-DeepCon2.pdf) @ [2nd Deep Con](https://festa.io/events/533)
 * 2018
   * [텍: 문서 작업 효율의 극대화](http://swpark.me/tex-lecture/) @ SNU (in Korean)
