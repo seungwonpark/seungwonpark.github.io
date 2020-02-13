@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2019.11.20
+description: Last updated 2020.02.14
 ---
 
 # Seungwon Park (박승원)
@@ -16,15 +16,14 @@ description: Last updated 2019.11.20
 # Education / Work
 
 * [MindsLab](http://mindslab.ai/) <small>2018.6 – 2018.8, 2019.1 – now</small>
+  * Senior AI Scientist <small>2020.1 – now</small>
+    * Leading audio-related research projects in MindsLab
   * AI Scientist
-    * Korean news article summarization (NLP)
-    * Text-Independent Speaker Verification (Audio)
-    * Speech Separation + Diarization (Audio)
-    * Speech Enhancement (Audio)
-    * Real-time Neural Text-To-Speech (Audio)
+    * Korean news article summarization
+    * Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement (Audio)
+    * Real-time Neural Text-To-Speech, Voice Conversion (Audio)
     * … and more exciting projects going on!
-  * Attended [ICASSP 2019](https://2019.ieeeicassp.org), [DLRLSS 2019](https://dlrlsummerschool.ca/), [InterSpeech 2019]([https://www.interspeech2019.org](https://www.interspeech2019.org/))
-    * Will be attending [NeurIPS 2019](https://neurips.cc/)
+  * Attended [ICASSP 2019](https://2019.ieeeicassp.org), [DLRLSS 2019](https://dlrlsummerschool.ca/), [InterSpeech 2019](https://www.interspeech2019.org), [NeurIPS 2019](https://neurips.cc/)
   * Working as a substitute of mandatory military service <small>2019.2 – 2021.2</small>
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
@@ -65,27 +64,18 @@ Disclaimer: None of those are published.​
 
 # Open Source Contribution
 
-* [MelNet (WIP)](<https://github.com/Deepest-Project/MelNet>)
-  * Trying to implement [MelNet](<https://arxiv.org/abs/1906.01083>), working as a group project @ [Deepest](http://deepest.ai/) 
-* [MelGAN]( https://github.com/seungwonpark/melgan )
-  * Implementation of [MelGAN](https://arxiv.org/abs/1910.06711).
-  * Reproduced the results of the original paper before the official implementation was released.
+* [MelNet](<https://github.com/Deepest-Project/MelNet>) - Group project @ [Deepest](http://deepest.ai/)
+* [MelGAN](https://github.com/seungwonpark/melgan) - I reproduced the results before an official implementation had been released.
 * [Randomly Wired Neural Network](<https://github.com/seungwonpark/RandWireNN>)
-  * First open-source implementation of [Xie et al. (2019)](<https://arxiv.org/abs/1904.01569>)
-* [VoiceFilter](<https://github.com/mindslab-ai/voicefilter>)
-
-  * Unofficial PyTorch implementation of Google's [VoiceFilter](<https://arxiv.org/abs/1810.04826>) system. 
-  * This was kindly acknowledged within revision of original paper.
-* [GSHS TeX Society](http://latex.gs.hs.kr)
-
-  * Server Admin (Jekyll, PHP, CentOS)
-  * Developer, Educator (LaTeX)
+* [VoiceFilter](<https://github.com/mindslab-ai/voicefilter>) - My name was kindly acknowledged within the paper.
+* [GSHS TeX Society](http://latex.gs.hs.kr) - Server Admin (Jekyll, PHP, CentOS) / Developer, Educator (LaTeX)
 * Other miscellaneous projects are shown in [my GitHub profile](https://github.com/seungwonpark). 
 
 
 # Extracurricular Activities
 
-* [Deepest](http://deepest.ai/) <small> 2019 – now</small>
+* [Deepest](http://deepest.ai/) <small>2019 – now</small>
+  * Vice President <small>2020.2 – 2020.8 (Season 7)</small>
   * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
   * TikZ inverse graphics / MelNet / Neural steganography
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
