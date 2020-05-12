@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2020.02.14
+description: Last updated 2020.05.12
 ---
 
 # Seungwon Park (박승원)
