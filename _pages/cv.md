@@ -38,7 +38,11 @@ description: Last updated 2020.02.14
 
 # Research
 
-Disclaimer: None of those are published.​
+Preprint:
+- Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>2020, [Seung-won Park, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295)</small>
+    - [Audio samples](https://mindslab-ai.github.io/cotatron)
+
+Unpublished works:
 - SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
     - Precise feedback control of SCP Artificial Muscle introduced by [Haines et al.(2014)](http://science.sciencemag.org/content/343/6173/868)
     - 22th Samsung Humantech Paper Award – Silver Prize
