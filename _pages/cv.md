@@ -6,7 +6,7 @@ headname: CV
 description: Last updated 2020.05.12
 ---
 
-# Seungwon Park (박승원)
+# Seung-won Park (박승원)
 
 * E-mail: yyyyy (at) snu (dot) ac (dot) kr
   * *Why so many 'y's?* – I love to ask why (pronounced like 'y') something happens!
