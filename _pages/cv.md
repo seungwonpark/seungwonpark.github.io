@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2020.05.12
+description: Last updated 2020.05.14
 ---
 
 # Seung-won Park (박승원)
@@ -15,15 +15,11 @@ description: Last updated 2020.05.12
 
 # Education / Work
 
-* [MindsLab](http://mindslab.ai/) <small>2018.6 – 2018.8, 2019.1 – now</small>
+* [MINDsLab Inc.](https://mindslab.ai/) <small>2018.6 – 2018.8, 2019.1 – now</small>
   * Senior AI Scientist <small>2020.1 – now</small>
-    * Leading audio-related research projects in MindsLab
-  * AI Scientist
-    * Korean news article summarization
-    * Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement (Audio)
-    * Real-time Neural Text-To-Speech, Voice Conversion (Audio)
-    * … and more exciting projects going on!
-  * Attended [ICASSP 2019](https://2019.ieeeicassp.org), [DLRLSS 2019](https://dlrlsummerschool.ca/), [InterSpeech 2019](https://www.interspeech2019.org), [NeurIPS 2019](https://neurips.cc/)
+    * Leading speech-related research projects at MINDsLab.
+    * Currently working on: Speech Synthesis, Voice Conversion
+    * Past works: Korean news article summarization, Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement
   * Working as a substitute of mandatory military service <small>2019.2 – 2021.2</small>
 
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
@@ -39,7 +35,7 @@ description: Last updated 2020.05.12
 # Research
 
 Preprint:
-- Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>2020, [Seung-won Park, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295)</small>
+- Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295)</small>
     - [Audio samples](https://mindslab-ai.github.io/cotatron)
 
 Unpublished works:
@@ -81,7 +77,7 @@ Unpublished works:
 * [Deepest](http://deepest.ai/) <small>2019 – now</small>
   * Vice President <small>2020.2 – 2020.8 (Season 7)</small>
   * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
-  * TikZ inverse graphics / MelNet / Neural steganography
+  * TikZ inverse graphics / MelNet
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
   * CS seminar of two physics students and one chemistry student
 * [Korean TeX Society](http://www.ktug.org) <small>2017.3 – 2019.10</small>
