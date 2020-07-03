@@ -3,25 +3,23 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2020.05.14
+description: Last updated 2020.07.04
 ---
 
 # Seung-won Park (박승원)
 
-* E-mail: yyyyy (at) snu (dot) ac (dot) kr
-  * *Why so many 'y's?* – I love to ask why (pronounced like 'y') something happens!
-* Webpage: [swpark.me](http://swpark.me)
-* GitHub: [seungwonpark](https://github.com/seungwonpark)
+* yyyyy (at) snu.ac.kr | [swpark.me](http://swpark.me) | [seungwonpark @ GitHub](https://github.com/seungwonpark)
 
 # Education / Work
 
 * [MINDsLab Inc.](https://mindslab.ai/) <small>2018.6 – 2018.8, 2019.1 – now</small>
-  * Senior AI Scientist <small>2020.1 – now</small>
-    * Leading speech-related research projects at MINDsLab.
-    * Currently working on: Speech Synthesis, Voice Conversion
-    * Past works: Korean news article summarization, Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement
-  * Working as a substitute of mandatory military service <small>2019.2 – 2021.2</small>
-
+  * Senior AI Scientist <small>2020.1 – 2020.6</small>
+  * Head AI Scientist <small>2020.7 – now</small>
+    * Leading audio/speech research projects in MINDsLab.
+    * Currently working on: Speech Synthesis, Voice Conversion.
+    * Past works: Korean news article summarization, Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement.
+* Working as a substitute of mandatory military service <small>2019.2 – 2021.2</small>
+  
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
   * Currently in temporary absence for mandatory military service
   * Pursuing a BS degree in Physics <small>(GPA 3.91/4.30)</small>
@@ -35,8 +33,7 @@ description: Last updated 2020.05.14
 # Research
 
 Preprint:
-- Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295)</small>
-    - [Audio samples](https://mindslab-ai.github.io/cotatron)
+- Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295) / [Project Page](https://mindslab-ai.github.io/cotatron) / [GitHub](https://github.com/mindslab-ai/cotatron)</small>
 
 Unpublished works:
 - SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
@@ -66,7 +63,6 @@ Unpublished works:
 
 * [MelNet](<https://github.com/Deepest-Project/MelNet>) - Group project @ [Deepest](http://deepest.ai/)
 * [MelGAN](https://github.com/seungwonpark/melgan) - I reproduced the results before an official implementation had been released.
-* [Randomly Wired Neural Network](<https://github.com/seungwonpark/RandWireNN>)
 * [VoiceFilter](<https://github.com/mindslab-ai/voicefilter>) - My name was kindly acknowledged within the paper.
 * [GSHS TeX Society](http://latex.gs.hs.kr) - Server Admin (Jekyll, PHP, CentOS) / Developer, Educator (LaTeX)
 * Other miscellaneous projects are shown in [my GitHub profile](https://github.com/seungwonpark). 
@@ -74,13 +70,10 @@ Unpublished works:
 
 # Extracurricular Activities
 
-* [Deepest](http://deepest.ai/) <small>2019 – now</small>
-  * Vice President <small>2020.2 – 2020.8 (Season 7)</small>
+* [Deepest](http://deepest.ai/) <small>2019.01 – now</small>
+  * Vice President <small>2020.2 – 2021.2 (Season 7, 8)</small>
   * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
-  * TikZ inverse graphics / MelNet
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
   * CS seminar of two physics students and one chemistry student
-* [Korean TeX Society](http://www.ktug.org) <small>2017.3 – 2019.10</small>
-  * Executive Staff
-* [GSHS TeX Society](http://latex.gs.hs.kr) <small>2015.12 – 2017.2</small>
-  * Founder, 1st president
+* Executive staff @ [Korean TeX Society](http://www.ktug.org) <small>2017.3 – 2019.10</small>
+* Founded [GSHS TeX Society](http://latex.gs.hs.kr) <small>2015.12 – 2017.2</small>

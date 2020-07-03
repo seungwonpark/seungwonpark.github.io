@@ -14,7 +14,7 @@ social: true
 Hello there!
 
 I'm physics & CS undergrad. student at Seoul National University.
-Currently, I'm working as an senior AI scientist at [MINDsLab Inc.](https://mindslab.ai)
+Currently, I'm working as an head AI scientist at [MINDsLab Inc.](https://mindslab.ai)
 
 I love reading & implementing deep learning papers and sharing ideas of them with others.
 
