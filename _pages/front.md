@@ -11,6 +11,8 @@ profile:
 social: true
 ---
 
+IMPORTANT! - I'll be unavailable from Jul. 16 to Aug. 13, due to mandatory military service. Please reach me before Jul. 15 if you need any kind of contact.
+
 Hello there!
 
 I'm physics & CS undergrad. student at Seoul National University.
