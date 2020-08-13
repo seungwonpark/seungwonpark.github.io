@@ -32,7 +32,7 @@ description: Last updated 2020.07.04
 
 # Research
 
-Preprint:
+Conference:
 - Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295) / [Project Page](https://mindslab-ai.github.io/cotatron) / [GitHub](https://github.com/mindslab-ai/cotatron)</small>
 
 Unpublished works:
