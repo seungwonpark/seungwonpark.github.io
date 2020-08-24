@@ -3,12 +3,12 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2020.07.04
+description: Last updated 2020.08.24
 ---
 
 # Seung-won Park (박승원)
 
-* yyyyy (at) snu.ac.kr | [swpark.me](http://swpark.me) | [seungwonpark @ GitHub](https://github.com/seungwonpark)
+* yyyyy (at) snu.ac.kr / [swpark.me](http://swpark.me) / [seungwonpark @ GitHub](https://github.com/seungwonpark)
 
 # Education / Work
 
