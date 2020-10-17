@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2020.08.24
+description: Last updated 2020.10.17
 ---
 
 # Seung-won Park (박승원)
@@ -12,10 +12,10 @@ description: Last updated 2020.08.24
 
 # Education / Work
 
-* [MINDsLab Inc.](https://mindslab.ai/) <small>2018.6 – 2018.8, 2019.1 – now</small>
+* [MINDs Lab, Inc.](https://mindslab.ai/) <small>2018.6 – 2018.8, 2019.1 – now</small>
   * Senior AI Scientist <small>2020.1 – 2020.6</small>
   * Head AI Scientist <small>2020.7 – now</small>
-    * Leading audio/speech research projects in MINDsLab.
+    * Leading audio/speech research projects in MINDs Lab.
     * Currently working on: Speech Synthesis, Voice Conversion.
     * Past works: Korean news article summarization, Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement.
 * Working as a substitute of mandatory military service <small>2019.2 – 2021.2</small>
@@ -34,6 +34,9 @@ description: Last updated 2020.08.24
 
 Conference:
 - Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295) / [Project Page](https://mindslab-ai.github.io/cotatron) / [GitHub](https://github.com/mindslab-ai/cotatron)</small>
+
+Preprint:
+- Generating Novel Glyph without Human Data by Learning to Communicate <small>2020, [**Seung-won Park**] [arXiv](https://arxiv.org/abs/2010.04402)</small>
 
 Unpublished works:
 - SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
