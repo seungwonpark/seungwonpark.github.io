@@ -3,11 +3,14 @@ layout: page
 permalink: /notes/
 title: notes / talks
 headname: notes/talks
-description: Notes/Talks of Seungwon Park
+description: Notes/Talks of Seung-won Park
 ---
 
 # Talks
 
+* 2020
+  * (TBA) Generating Novel Glyph without Human Data by Learning to Communicate @ NeurIPS 2020 Workshop on Machine Learning for Creativity and Design
+  * Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data @ Interspeech 2020 [Slides](swpark-Cotatron-interspeech2020.pdf) [Video](https://youtu.be/lnNuL8hqoh4)
 * 2019
   * [History of Neural Vocoders for TTS (as of 2019.10)](swpark-DeepestS6-hosting.pdf) @ Deepest Hosting
   * [Speaker Embedding Network & Applications](swpark-DeepCon2.pdf) @ [2nd Deep Con](https://festa.io/events/533)

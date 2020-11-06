@@ -33,10 +33,10 @@ description: Last updated 2020.10.17
 # Research
 
 Conference:
-- Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295) / [Project Page](https://mindslab-ai.github.io/cotatron) / [GitHub](https://github.com/mindslab-ai/cotatron)</small>
+- Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>Interspeech 2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295) / [Project Page](https://mindslab-ai.github.io/cotatron) / [GitHub](https://github.com/mindslab-ai/cotatron)</small>
 
-Preprint:
-- Generating Novel Glyph without Human Data by Learning to Communicate <small>2020, [**Seung-won Park**] [arXiv](https://arxiv.org/abs/2010.04402)</small>
+Workshop:
+- Generating Novel Glyph without Human Data by Learning to Communicate <small>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design, [**Seung-won Park**] [arXiv](https://arxiv.org/abs/2010.04402)</small>
 
 Unpublished works:
 - SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
