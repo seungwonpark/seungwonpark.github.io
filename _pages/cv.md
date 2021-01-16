@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2020.11.07
+description: Last updated 2021.01.16
 ---
 
 # Seung-won Park (박승원)
@@ -12,22 +12,22 @@ description: Last updated 2020.11.07
 
 # Education / Work
 
-* [MINDs Lab, Inc.](https://mindslab.ai/) <small>2018.6 – 2018.8, 2019.1 – now</small>
-  * Working as a substitute of mandatory military service <small>2019.2 – 2021.2</small>
-  * Senior AI Scientist <small>2020.1 – 2020.6</small>
-  * Head AI Scientist <small>2020.7 – now</small>
+* [MINDs Lab, Inc.](https://mindslab.ai/) <small>2018.06 – 2018.08, 2019.01 – 2021.02</small>
+  * Working as a substitute of mandatory military service <small>2019.02 – 2021.02</small>
+  * Senior AI Scientist <small>2020.01 – 2020.06</small>
+  * Head AI Scientist <small>2020.07 – 2021.02</small>
     * Leading audio/speech research projects in MINDs Lab.
     * Currently working on: Speech Synthesis, Voice Conversion.
     * Past works: Korean news article summarization, Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement.
   
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
-  * Currently in temporary absence for mandatory military service
+  * Currently in temporary absence for mandatory military service (Will be returning at 2021 spring)
   * Pursuing a BS degree in Physics <small>(GPA 3.91/4.30)</small>
   * Double majoring in CS <small>(GPA 3.06/4.30)</small>
 
-* [Gyeonggi Science High School for the gifted](http://www.gs.hs.kr) <small>2014 – 2017.2</small>
+* [Gyeonggi Science High School for the gifted](http://www.gs.hs.kr) <small>2014 – 2017</small>
   * Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in school
-  * Proposed and conducted research project as intern at [RISE Lab. @ Sungkyunkwan Univ.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.4 – 2015.12</small>
+  * Proposed and conducted research project as intern at [RISE Lab. @ Sungkyunkwan Univ.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.04 – 2015.12</small>
 
 # Research
 
@@ -35,7 +35,7 @@ Conference:
 - Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>Interspeech 2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295) / [Project Page](https://mindslab-ai.github.io/cotatron) / [GitHub](https://github.com/mindslab-ai/cotatron)</small>
 
 Workshop:
-- Generating Novel Glyph without Human Data by Learning to Communicate <small>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design, [**Seung-won Park**] [arXiv](https://arxiv.org/abs/2010.04402)</small>
+- Generating Novel Glyph without Human Data by Learning to Communicate <small>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design, [**Seung-won Park**] [arXiv](https://arxiv.org/abs/2010.04402) / [Slides & Video](https://slideslive.com/38941000) / [Google Colab](https://colab.research.google.com/drive/1NDEdM7PjcS2ohKP39UnsX02hg_EyOpYX?usp=sharing)</small>
 
 Unpublished works:
 - SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
@@ -59,12 +59,12 @@ Unpublished works:
 * Reviewer
   * ICLR 2021, ICLR 2020
 * [Deepest](http://deepest.ai/) <small>2019.01 – now</small>
-  * Vice President <small>2020.2 – 2021.2 (Season 7, 8)</small>
+  * Vice President <small>2020.02 – 2021.02 (Season 7, 8)</small>
   * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
   * CS seminar of two physics students and one chemistry student
-* Executive staff @ [Korean TeX Society](http://www.ktug.org) <small>2017.3 – 2019.10</small>
-* Founded [GSHS TeX Society](http://latex.gs.hs.kr) <small>2015.12 – 2017.2</small>
+* Executive staff @ [Korean TeX Society](http://www.ktug.org) <small>2017.03 – 2019.10</small>
+* Founded [GSHS TeX Society](http://latex.gs.hs.kr) <small>2015.12 – 2017.02</small>
 
 # Honors and Awards
 
