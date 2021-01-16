@@ -9,7 +9,7 @@ description: Notes/Talks of Seung-won Park
 # Talks
 
 * 2020
-  * (TBA) Generating Novel Glyph without Human Data by Learning to Communicate @ NeurIPS 2020 Workshop on Machine Learning for Creativity and Design
+  * Generating Novel Glyph without Human Data by Learning to Communicate @ NeurIPS 2020 Workshop on Machine Learning for Creativity and Design [Slides & Video](https://slideslive.com/38941000)
   * Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data @ Interspeech 2020 [Slides](swpark-Cotatron-interspeech2020.pdf) [Video](https://youtu.be/lnNuL8hqoh4)
 * 2019
   * [History of Neural Vocoders for TTS (as of 2019.10)](swpark-DeepestS6-hosting.pdf) @ Deepest Hosting
