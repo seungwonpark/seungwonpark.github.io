@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2021.01.16
+description: Last updated 2021.02.05
 ---
 
 # Seung-won Park (박승원)
@@ -12,18 +12,16 @@ description: Last updated 2021.01.16
 
 # Education / Work
 
-* [MINDs Lab, Inc.](https://mindslab.ai/) <small>2018.06 – 2018.08, 2019.01 – 2021.02</small>
-  * Working as a substitute of mandatory military service <small>2019.02 – 2021.02</small>
-  * Senior AI Scientist <small>2020.01 – 2020.06</small>
-  * Head AI Scientist <small>2020.07 – 2021.02</small>
-    * Leading audio/speech research projects in MINDs Lab.
-    * Currently working on: Speech Synthesis, Voice Conversion.
-    * Past works: Korean news article summarization, Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement.
-  
 * [Seoul National University](http://en.snu.ac.kr) <small>2017 – now</small>
-  * Currently in temporary absence for mandatory military service (Will be returning at 2021 spring)
   * Pursuing a BS degree in Physics <small>(GPA 3.91/4.30)</small>
   * Double majoring in CS <small>(GPA 3.06/4.30)</small>
+
+* [MINDs Lab, Inc.](https://mindslab.ai/) <small>2018.06 – 2018.08, 2019.01 – 2021.02</small>
+  * Worked as a substitute of mandatory military service <small>2019.02 – 2021.02</small>
+  * Senior AI Scientist <small>2020.01 – 2020.06</small>
+  * Head AI Scientist <small>2020.07 – 2021.02</small>
+    * Led audio/speech research projects at MINDs Lab; focused on TTS and Voice Conversion.
+    * Former works include: Korean news article summarization, Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement.
 
 * [Gyeonggi Science High School for the gifted](http://www.gs.hs.kr) <small>2014 – 2017</small>
   * Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in school
