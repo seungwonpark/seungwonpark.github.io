@@ -7,7 +7,7 @@ email: yyyyy@snu.ac.kr
 description: > # this means to ignore newlines until "url:"
   Seungwon Park
 
-url:  # the base hostname & protocol for your site
+url: https://swpark.me # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 
 # Social
