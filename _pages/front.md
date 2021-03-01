@@ -2,7 +2,7 @@
 layout: front
 permalink: /
 title: Seung-won Park <small>(박승원)</small>
-description: <a href="http://physics.snu.ac.kr">Dept. of Physics & Astronomy</a>, <a href="http://en.snu.ac.kr">Seoul National University</a>. <br> 서울대학교 물리천문학부.
+description: <a href="https://physics.snu.ac.kr">Dept. of Physics & Astronomy</a>, <a href="https://en.snu.ac.kr">Seoul National University</a>. <br> 서울대학교 물리천문학부.
 
 profile:
   align: right

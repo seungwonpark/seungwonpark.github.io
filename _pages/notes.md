@@ -15,7 +15,7 @@ description: Notes/Talks of Seung-won Park
   * [History of Neural Vocoders for TTS (as of 2019.10)](swpark-DeepestS6-hosting.pdf) @ Deepest Hosting
   * [Speaker Embedding Network & Applications](swpark-DeepCon2.pdf) @ [2nd Deep Con](https://festa.io/events/533)
 * 2018
-  * [텍: 문서 작업 효율의 극대화](http://swpark.me/tex-lecture/) @ SNU (in Korean)
+  * [텍: 문서 작업 효율의 극대화](https://swpark.me/tex-lecture/) @ SNU (in Korean)
   * 교내 텍 사용자협회 운영사례 @ [SASA](http://sasa.hs.kr) (in Korean, private)
   * [원근감을 살린 TeX Graphics](2018KTUGconf-perspectiveTikZ.pdf) @ [2018 KTS conf.](http://wiki.ktug.org/wiki/wiki.php/KTSConference/2018) (in Korean)
 * 2017
