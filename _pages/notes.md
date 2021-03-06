@@ -26,6 +26,8 @@ description: Notes/Talks of Seung-won Park
 
 # Notes
 
+* 2021
+  * [Position Encoding의 종류와 분석](https://blog-deepest.medium.com/position-encoding%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EB%B6%84%EC%84%9D-ab1816b0f62a) (in Korean)
 * 2017
   * [Physics Writing Guide for Olympiad](For-KPhO-Newbies-compressed.pdf) (in Korean)
 * 2016
