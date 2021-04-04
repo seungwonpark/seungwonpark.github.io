@@ -40,7 +40,7 @@ Unpublished works:
     - Precise feedback control of SCP Artificial Muscle introduced by [Haines et al.(2014)](https://science.sciencemag.org/content/343/6173/868)
     - 22th Samsung Humantech Paper Award – Silver Prize
 
-- Feedback Control of Forces Air-Cooling Speed for Prevention of SCP's Overheating <small>2016, [**박승원**, 오정현]</small>
+- Feedback Control of Forced Air-Cooling Speed for Prevention of SCP's Overheating <small>2016, [**박승원**, 오정현]</small>
     - One of the first attempts to feedback control the SCP's cooling speed 
     - GSHS best research award on physics
 
