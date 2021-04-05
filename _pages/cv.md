@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2021.02.05
+description: Last updated 2021.04.05
 ---
 
 # Seung-won Park (박승원)
@@ -12,22 +12,27 @@ description: Last updated 2021.02.05
 
 # Education / Work
 
+* [Symbiote](https://symbiote-ai.github.io/) <small> 2021.03 – now</small>
+  * Co-founder
 * [Seoul National University](https://en.snu.ac.kr) <small>2017 – now</small>
   * Pursuing a BS degree in Physics <small>(GPA 3.91/4.30)</small>
   * Double majoring in CS <small>(GPA 3.06/4.30)</small>
-
 * [MINDs Lab, Inc.](https://mindslab.ai/) <small>2018.06 – 2018.08, 2019.01 – 2021.02</small>
   * Worked as a substitute of mandatory military service <small>2019.02 – 2021.02</small>
   * Senior AI Scientist <small>2020.01 – 2020.06</small>
   * Head AI Scientist <small>2020.07 – 2021.02</small>
     * Led audio/speech research projects at MINDs Lab; focused on TTS and Voice Conversion.
     * Former works include: Korean news article summarization, Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement.
-
 * [Gyeonggi Science High School for the gifted](https://www.gs.hs.kr) <small>2014 – 2017</small>
   * Got first prize on GSHS physics problem solving competition(2014, 2015), beating several IPhO gold medalists in school
   * Proposed and conducted research project as intern at [RISE Lab. @ Sungkyunkwan Univ.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.04 – 2015.12</small>
 
 # Research
+
+
+Preprint:
+- Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques <small>2021,  [Kang-wook Kim, **Seung-won Park**, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2104.00931) / [Project Page](https://mindslab-ai.github.io/assem-vc/)</small>
+
 
 Conference:
 - Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>Interspeech 2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295) / [Project Page](https://mindslab-ai.github.io/cotatron) / [GitHub](https://github.com/mindslab-ai/cotatron)</small>
