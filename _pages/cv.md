@@ -31,7 +31,7 @@ description: Last updated 2021.04.05
 
 
 Preprint:
-- Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques <small>2021,  [Kang-wook Kim, **Seung-won Park**, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2104.00931) / [Project Page](https://mindslab-ai.github.io/assem-vc/)</small>
+- Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques <small>2021, [Kang-wook Kim, **Seung-won Park**, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2104.00931) / [Project Page](https://mindslab-ai.github.io/assem-vc/)</small>
 
 
 Conference:
