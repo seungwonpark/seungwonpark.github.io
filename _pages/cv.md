@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2021.04.05
+description: Last updated 2021.06.05
 ---
 
 # Seung-won Park (박승원)
@@ -14,7 +14,7 @@ description: Last updated 2021.04.05
 
 * [Symbiote](https://symbiote-ai.github.io/) <small> 2021.03 – now</small>
   * Co-founder
-* [Seoul National University](https://en.snu.ac.kr) <small>2017 – now</small>
+* [Seoul National University](https://en.snu.ac.kr) <small>2017.03 – 2018.12, 2021.03 – now</small>
   * Pursuing a BS degree in Physics <small>(GPA 3.91/4.30)</small>
   * Double majoring in CS <small>(GPA 3.06/4.30)</small>
 * [MINDs Lab, Inc.](https://mindslab.ai/) <small>2018.06 – 2018.08, 2019.01 – 2021.02</small>
