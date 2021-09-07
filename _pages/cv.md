@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2021.07.12
+description: Last updated 2021.09.07
 ---
 
 # Seung-won Park (박승원)
@@ -12,7 +12,7 @@ description: Last updated 2021.07.12
 
 # Education / Work
 
-* [Seoul National University](https://en.snu.ac.kr) <small>2017.03 – 2018.12, 2021.03 – 2022.08 (expected)</small>
+* [Seoul National University](https://en.snu.ac.kr) <small>2017.03 – 2018.12, 2021.03 – 2023.02 (expected)</small>
   * Pursuing a BS degree in Physics <small>(GPA 3.91/4.30)</small>
   * Double majoring in CS <small>(GPA 3.25/4.30)</small>
 * [Symbiote](https://symbiote-ai.github.io/) <small> 2021.03 –  2021.07</small>
