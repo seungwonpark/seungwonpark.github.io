@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2021.09.07
+description: Last updated 2021.09.18
 ---
 
 # Seung-won Park (박승원)
@@ -13,7 +13,7 @@ description: Last updated 2021.09.07
 # Education / Work
 
 * [Seoul National University](https://en.snu.ac.kr) <small>2017.03 – 2018.12, 2021.03 – 2023.02 (expected)</small>
-  * Pursuing a BS degree in Physics <small>(GPA 3.91/4.30)</small>
+  * Pursuing a BS degree in Physics <small>(GPA 3.92/4.30)</small>
   * Double majoring in CS <small>(GPA 3.25/4.30)</small>
 * [Symbiote](https://symbiote-ai.github.io/) <small> 2021.03 –  2021.07</small>
 * [MINDs Lab, Inc.](https://mindslab.ai/) <small>2018.06 – 2018.08, 2019.01 – 2021.02</small>
@@ -60,7 +60,7 @@ Unpublished works:
 
 * Reviewer
   * NeurIPS 2021, ICLR 2021, ICLR 2020
-* [Deepest](https://deepest.ai/) <small>2019.01 – now</small>
+* [Deepest](https://deepest.ai/) <small>2019.01 – 2021.08</small>
   * Vice President <small>2020.02 – 2021.02 (Season 7, 8)</small>
   * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
