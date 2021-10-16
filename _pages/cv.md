@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2021.10.01
+description: Last updated 2021.10.16
 ---
 
 # Seung-won Park (박승원)
@@ -48,9 +48,8 @@ Unpublished works:
     - One of the first attempts to feedback control the SCP's cooling speed 
     - GSHS best research award on physics
 
-# Open Source Contribution
+# Open Source Contribution (selected)
 
-* [MelNet](https://github.com/Deepest-Project/MelNet) – Group project @ [Deepest](https://deepest.ai/)
 * [MelGAN](https://github.com/seungwonpark/melgan) – I reproduced the results before an official implementation had been released.
 * [VoiceFilter](https://github.com/mindslab-ai/voicefilter) – My name was kindly acknowledged within the paper.
 * [GSHS TeX Society](http://latex.gs.hs.kr) – Server Admin (Jekyll, PHP, CentOS) / Developer, Educator (LaTeX)
@@ -59,7 +58,7 @@ Unpublished works:
 # Activities
 
 * Reviewer
-  * NeurIPS 2021, ICLR 2021, ICLR 2020
+  * ICLR (2022, 2021, 2020), NeurIPS (2021)
 * [Deepest](https://deepest.ai/) <small>2019.01 – 2021.08</small>
   * Vice President <small>2020.02 – 2021.02 (Season 7, 8)</small>
   * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
