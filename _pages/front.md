@@ -6,7 +6,7 @@ description: <a href="https://physics.snu.ac.kr">Dept. of Physics & Astronomy</a
 
 profile:
   align: right
-  image: 201905.jpeg
+  image: 202112_swpark.jpg
 
 social: true
 ---
