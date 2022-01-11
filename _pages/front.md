@@ -14,7 +14,9 @@ social: true
 Hello there!
 
 I'm physics & CS undergrad. student at Seoul National University.
-Previously, I worked as a Head AI Scientist at [MINDsLab Inc.](https://mindslab.ai)
+Currently, I'm doing a research on speech/singing voice synthesis at [Supertone Inc.](https://supertone.ai/)
+while jointly interning at [MARG](http://marg.snu.ac.kr/).
+Before that, I worked as a Head AI Scientist at [MINDsLab Inc.](https://mindslab.ai)
 
 I love reading & implementing deep learning papers and sharing ideas of them with others.
 
