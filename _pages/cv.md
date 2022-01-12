@@ -3,7 +3,7 @@ layout: page
 permalink: /cv/
 title: Curriculum Vitae
 headname: CV
-description: Last updated 2022.01.07
+description: Last updated 2022.01.12
 ---
 
 # Seung-won Park (박승원)
@@ -12,12 +12,12 @@ description: Last updated 2022.01.07
 
 # Education / Work
 
-* [Seoul National University](https://en.snu.ac.kr) <small>2017.03 – 2018.12, 2021.03 – 2023.02 (expected)</small>
+* [Seoul National University](https://en.snu.ac.kr) <small>2017.03 – 2018.12, 2021.03 – 2022.06 (expected)</small>
   * Pursuing a BS degree in Physics <small>(GPA 3.92/4.30)</small>
   * Double majoring in CS <small>(GPA 3.31/4.30)</small>
   * Research Intern at [MARG](http://marg.snu.ac.kr), [Supertone](https://supertone.ai/) <small>2021.10 – now</small>
 * [Symbiote](https://symbiote-ai.github.io/) <small> 2021.03 –  2021.07</small>
-* [MINDs Lab, Inc.](https://mindslab.ai/) <small>2018.06 – 2018.08, 2019.01 – 2021.02</small>
+* [MINDs Lab, Inc.](https://mindslab-ai.github.io/publications/) <small>2018.06 – 2018.08, 2019.01 – 2021.02</small>
   * Worked as a substitute of mandatory military service <small>2019.02 – 2021.02</small>
   * Senior/Head AI Scientist <small>2020.01 – 2021.02</small>
     * Led audio/speech research projects at MINDs Lab; focused on TTS and Voice Conversion.
