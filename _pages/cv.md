@@ -15,7 +15,7 @@ description: Last updated 2022.01.12
 * [Seoul National University](https://en.snu.ac.kr) <small>2017.03 – 2018.12, 2021.03 – 2022.06 (expected)</small>
   * Pursuing a BS degree in Physics <small>(GPA 3.92/4.30)</small>
   * Double majoring in CS <small>(GPA 3.31/4.30)</small>
-  * Research Intern at [MARG](http://marg.snu.ac.kr), [Supertone](https://supertone.ai/) <small>2021.10 – now</small>
+  * Research Intern at [MARG](http://marg.snu.ac.kr), [Supertone Inc.](https://supertone.ai/) <small>2021.10 – now</small>
 * [Symbiote](https://symbiote-ai.github.io/) <small> 2021.03 –  2021.07</small>
 * [MINDs Lab, Inc.](https://mindslab-ai.github.io/publications/) <small>2018.06 – 2018.08, 2019.01 – 2021.02</small>
   * Worked as a substitute of mandatory military service <small>2019.02 – 2021.02</small>
@@ -28,16 +28,9 @@ description: Last updated 2022.01.12
 
 # Research
 
-
-Preprint:
-- Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques <small>2021, [Kang-wook Kim, **Seung-won Park**, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2104.00931) / [Project Page](https://mindslab-ai.github.io/assem-vc/)</small>
-
-
-Conference:
-- Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>Interspeech 2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295) / [Project Page](https://mindslab-ai.github.io/cotatron) / [GitHub](https://github.com/mindslab-ai/cotatron)</small>
-
-Workshop:
+- Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques <small>**Under review** at ICASSP 2022, [Kang-wook Kim, **Seung-won Park**, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2104.00931) / [Project Page](https://mindslab-ai.github.io/assem-vc/)</small>
 - Generating Novel Glyph without Human Data by Learning to Communicate <small>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design, [**Seung-won Park**] [arXiv](https://arxiv.org/abs/2010.04402) / [Slides & Video](https://slideslive.com/38941000) / [Google Colab](https://colab.research.google.com/drive/1NDEdM7PjcS2ohKP39UnsX02hg_EyOpYX?usp=sharing)</small>
+- Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>Interspeech 2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295) / [Project Page](https://mindslab-ai.github.io/cotatron) / [GitHub](https://github.com/mindslab-ai/cotatron)</small>
 
 Unpublished works:
 - SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
@@ -48,17 +41,15 @@ Unpublished works:
     - One of the first attempts to feedback control the SCP's cooling speed 
     - GSHS best research award on physics
 
-# Open Source Contribution (selected)
-
-* [MelGAN](https://github.com/seungwonpark/melgan) – I reproduced the results before an official implementation had been released.
-* [VoiceFilter](https://github.com/mindslab-ai/voicefilter) – My name was kindly acknowledged within the paper.
-* [GSHS TeX Society](http://latex.gs.hs.kr) – Server Admin (Jekyll, PHP, CentOS) / Developer, Educator (LaTeX)
-* Other miscellaneous projects are shown in [my GitHub profile](https://github.com/seungwonpark). 
-
 # Activities
 
 * Reviewer
-  * ICLR (2022, 2021, 2020), NeurIPS (2021)
+  * ICLR (2022, 2021, 2020), ICML (2022), NeurIPS (2021)
+* Open Source Contribution (selected)
+  * [MelGAN](https://github.com/seungwonpark/melgan) – I reproduced the results before an official implementation had been released.
+  * [VoiceFilter](https://github.com/mindslab-ai/voicefilter) – My name was kindly acknowledged within the paper.
+  * [GSHS TeX Society](http://latex.gs.hs.kr) – Server Admin (Jekyll, PHP, CentOS) / Developer, Educator (LaTeX)
+  * Other miscellaneous projects are shown in [my GitHub profile](https://github.com/seungwonpark). 
 * [Deepest](https://deepest.ai/) <small>2019.01 – 2021.08</small>
   * Vice President <small>2020.02 – 2021.02 (Season 7, 8)</small>
   * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
@@ -69,15 +60,9 @@ Unpublished works:
 
 # Honors and Awards
 
-* Physics
-  * IPhO – South Korean team candidate <small>2016</small>
-  * Passed all 5 BS-level tests on [Physics Certification Exam](https://kphc.kps.or.kr/about/) <small>2014 – 2016</small>
-    * Operated by [The Korean Physical Society](http://www.kps.or.kr/) – Classical Mechanics, Electromagnetics, Quantum Mechanics, Thermodynamic & Statistical physics, Optics
+* Presidential scholarship on science <small>2017 – 2022, fully funded scholarschip for undergrad course</small>
+* GSHS best research award on physics <small>2016, 2017</small>
+* 22th Samsung Humantech Paper Award – Silver Prize <small>2016</small>
+* 47th IPhO – South Korean team candidate (Top 14) <small>2016</small>
+* [Hanseong Sonjaehan Scholarship](http://sonjaehan.org/) <small>2015 – 2016, 5M KRW per year</small>
 
-* Competitive Programming (Codeforces: veydpz)
-  * [UCPC 2018](https://2018.ucpc.io/) – 14th place
-  * [SNUPC 2017](https://snups.snucse.org/snupc2017/) – 2nd place on Div.2
-
-* Scholarship
-  * Presidential scholarship on science <small>2017 – now</small>
-  * [Hanseong Sonjaehan Scholarship](http://sonjaehan.org/) <small>2015 – 2016</small>
