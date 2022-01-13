@@ -6,7 +6,7 @@ headname: CV
 description: yyyyy (at) snu.ac.kr | https://swpark.me | seungwonpark @ GitHub | Last updated 2022.01.13
 ---
 
-## Education / Work
+# Education / Work
 
 * [Seoul National University](https://en.snu.ac.kr) <small>2017.03 – 2018.12, 2021.03 – 2022.06 (expected)</small>
   * Pursuing a BS degree in Physics <small>(GPA 3.92/4.30)</small>
@@ -21,7 +21,7 @@ description: yyyyy (at) snu.ac.kr | https://swpark.me | seungwonpark @ GitHub | 
 * [Gyeonggi Science High School for the gifted](https://www.gs.hs.kr) <small>2014 – 2017</small>
   * Proposed and conducted research project as intern at [RISE Lab. @ Sungkyunkwan Univ.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.04 – 2015.12</small>
 
-## Research
+# Research
 
 - Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques <small>**Under review** at ICASSP 2022, [Kang-wook Kim, **Seung-won Park**, Junhyeok Lee, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2104.00931) / [Project Page](https://mindslab-ai.github.io/assem-vc/)</small>
 - Generating Novel Glyph without Human Data by Learning to Communicate <small>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design, [**Seung-won Park**] [arXiv](https://arxiv.org/abs/2010.04402) / [Slides & Video](https://slideslive.com/38941000) / [Google Colab](https://colab.research.google.com/drive/1NDEdM7PjcS2ohKP39UnsX02hg_EyOpYX?usp=sharing)</small>
@@ -33,7 +33,7 @@ Unpublished works:
 - SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
     - Precise feedback control of SCP Artificial Muscle introduced by [Haines et al.(2014)](https://science.sciencemag.org/content/343/6173/868)
 
-## Activities
+# Activities
 
 * Reviewer
   * ICLR (2022, 2021, 2020), ICML (2022), NeurIPS (2021)
@@ -50,7 +50,7 @@ Unpublished works:
 * Executive staff @ [Korean TeX Society](http://www.ktug.org) <small>2017.03 – 2019.10</small>
 * Founded [GSHS TeX Society](http://latex.gs.hs.kr) <small>2015.12 – 2017.02</small>
 
-## Honors and Awards
+# Honors and Awards
 
 * Presidential scholarship on science <small>2017 – 2022, fully funded scholarschip for undergrad course</small>
 * GSHS best research award on physics <small>2016, 2017</small>
