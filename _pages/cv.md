@@ -26,12 +26,8 @@ description: yyyyy (at) snu.ac.kr | https://swpark.me | seungwonpark @ GitHub | 
 - Assem-VC: Realistic Voice Conversion by Assembling Modern Speech Synthesis Techniques <small>**Under review** at ICASSP 2022, [Kang-wook Kim, **Seung-won Park**, Junhyeok Lee, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2104.00931) / [Project Page](https://mindslab-ai.github.io/assem-vc/)</small>
 - Generating Novel Glyph without Human Data by Learning to Communicate <small>NeurIPS 2020 Workshop on Machine Learning for Creativity and Design, [**Seung-won Park**] [arXiv](https://arxiv.org/abs/2010.04402) / [Slides & Video](https://slideslive.com/38941000) / [Google Colab](https://colab.research.google.com/drive/1NDEdM7PjcS2ohKP39UnsX02hg_EyOpYX?usp=sharing)</small>
 - Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data <small>Interspeech 2020, [**Seung-won Park**, Doo-young Kim, Myun-chul Joe] [arXiv](https://arxiv.org/abs/2005.03295) / [Project Page](https://mindslab-ai.github.io/cotatron) / [GitHub](https://github.com/mindslab-ai/cotatron)</small>
-
-Unpublished works:
 - Feedback Control of Forced Air-Cooling Speed for Prevention of SCP's Overheating <small>2016, [**박승원**, 오정현]</small>
-    - One of the first attempts to feedback control the SCP's cooling speed
 - SCP Artificial Muscle로 작동하는 Antagonistic Robot Arm의 Feedback 제어 <small>2015, [김형주, **박승원**, Luong Anh Tuan, 문형필]</small>
-    - Precise feedback control of SCP Artificial Muscle introduced by [Haines et al.(2014)](https://science.sciencemag.org/content/343/6173/868)
 
 # Activities
 
