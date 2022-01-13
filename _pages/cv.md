@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /cv/
-title: CV of Seung-won Park (박승원)
+title: Seung-won Park (박승원)
 headname: CV
-description: yyyyy (at) snu.ac.kr / [swpark.me](https://swpark.me) / [seungwonpark @ GitHub](https://github.com/seungwonpark) / Last updated 2022.01.13
+description: yyyyy (at) snu.ac.kr | https://swpark.me | seungwonpark @ GitHub | Last updated 2022.01.13
 ---
 
 ## Education / Work
