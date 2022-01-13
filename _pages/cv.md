@@ -33,18 +33,16 @@ description: yyyyy (at) snu.ac.kr | https://swpark.me | seungwonpark @ GitHub | 
 
 * Reviewer
   * ICLR (2022, 2021, 2020), ICML (2022), NeurIPS (2021)
-* Open Source Contribution (selected)
-  * [MelGAN](https://github.com/seungwonpark/melgan) – I reproduced the results before an official implementation had been released.
-  * [VoiceFilter](https://github.com/mindslab-ai/voicefilter) – My name was kindly acknowledged within the paper.
-  * [GSHS TeX Society](http://latex.gs.hs.kr) – Server Admin (Jekyll, PHP, CentOS) / Developer, Educator (LaTeX)
-  * Other miscellaneous projects are shown in [my GitHub profile](https://github.com/seungwonpark). 
+* Open source contribution @ GitHub (selected)
+  * [MelGAN](https://github.com/seungwonpark/melgan) – Reproduced the results before release of an official implementation.
+  * [VoiceFilter](https://github.com/mindslab-ai/voicefilter) – Acknowledged within the paper.
+  * [GSHS TeX Society](http://latex.gs.hs.kr) – Founder, Server admin <small>2015.12 – 2017.02</small>
 * [Deepest](https://deepest.ai/) <small>2019.01 – 2021.08</small>
   * Vice President <small>2020.02 – 2021.02 (Season 7, 8)</small>
   * SNU Deep Learning Society: 1 weekly hosting + 1 group project for each season
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
   * CS seminar of two physics students and one chemistry student
 * Executive staff @ [Korean TeX Society](http://www.ktug.org) <small>2017.03 – 2019.10</small>
-* Founded [GSHS TeX Society](http://latex.gs.hs.kr) <small>2015.12 – 2017.02</small>
 
 # Honors and Awards
 
