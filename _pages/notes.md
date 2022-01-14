@@ -8,6 +8,8 @@ description: Notes/Talks of Seung-won Park
 
 # Talks
 
+* 2022
+  * [BERT: Self-supervised learning meets Transformer](220111_BERT_Self-supervised_learning_meets_Transformer.pdf) @ MARG Self-supervised learning study group
 * 2020
   * Generating Novel Glyph without Human Data by Learning to Communicate @ NeurIPS 2020 Workshop on Machine Learning for Creativity and Design [Slides & Video](https://slideslive.com/38941000)
   * Cotatron: Transcription-Guided Speech Encoder for Any-to-Many Voice Conversion without Parallel Data @ Interspeech 2020 [Slides](swpark-Cotatron-interspeech2020.pdf) [Video](https://youtu.be/lnNuL8hqoh4)
