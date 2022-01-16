@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resume
 permalink: /cv/
 title: Seung-won Park (박승원)
 headname: CV
