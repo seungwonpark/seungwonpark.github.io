@@ -21,7 +21,9 @@ description: Last updated 2022.01.16
     Focused on TTS & VC projects; co-led the research team (HR, managing, etc.)
   * Also made the followings available via a Cloud API service:
     Text-Independent Speaker Verification, Speech Separation, Diarization, Enhancement.
+  * Worked as a substitute of mandatory military service <small>2019.02 – 2021.02</small>
 * [Gyeonggi Science High School for the gifted](https://www.gs.hs.kr) <small>2014 – 2017</small>
+  * Proposed and conducted research project as intern at [RISE Lab. @ Sungkyunkwan Univ.](http://ris.skku.edu/home/) along with Hyoungjoo Kim <small>2015.04 – 2015.12</small>
 
 ## Research
 
@@ -39,13 +41,23 @@ description: Last updated 2022.01.16
   * [VoiceFilter](https://github.com/mindslab-ai/voicefilter) – I was acknowledged within the paper.
   * [GSHS TeX Society](http://latex.gs.hs.kr) – Founder, Server admin <small>2015.12 – 2017.02</small>
 * [Deepest](https://github.com/Deepest-Project): SNU Deep Learning Society <small>2019.01 – 2021.08, Vice President during 2020.02 – 2021.02</small>
+  * 1 weekly hosting + 1 group project for each season (half-year)
+* [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
+  * CS seminar of two physics students and one chemistry student
+* Executive staff @ [Korean TeX Society](http://www.ktug.org) <small>2017.03 – 2019.10</small>
+
 
 ## Honors and Awards
 
 * Presidential scholarship on science <small>2017 – 2022, fully funded scholarschip for undergrad course</small>
+* Competitive Programming (Codeforces: veydpz)
+  * [UCPC 2018](https://2018.ucpc.io/) – 14th place
+  * [SNUPC 2017](https://snups.snucse.org/snupc2017/) – 2nd place on Div.2
 * GSHS best research award on physics <small>2016, 2017</small>
 * 22th Samsung Humantech Paper Award – Silver Prize <small>2016</small>
 * 47th IPhO – South Korean team candidate (Top 14) <small>2016</small>
+* Passed all 5 BS-level tests on [Physics Certification Exam](https://kphc.kps.or.kr/about/) <small>2014 – 2016</small>
+  * Operated by [The Korean Physical Society](http://www.kps.or.kr/) – Classical Mechanics, Electromagnetics, Quantum Mechanics, Thermodynamic & Statistical physics, Optics
 * [Hanseong Sonjaehan Scholarship](http://sonjaehan.org/) <small>2015 – 2016, 5M KRW per year</small>
 * 1st prize on GSHS physics problem solving competition <small>2014, 2015</small>
 
