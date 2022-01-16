@@ -1,16 +1,14 @@
 ---
 layout: resume
-permalink: /cv/
+permalink: /resume/
 title: Seung-won Park (박승원)
-headname: CV
+headname: Resume
 description: Last updated 2022.01.16
 ---
 
 # Seung-won Park (박승원)
 
 <small>yyyyy (at) snu.ac.kr | https://swpark.me | seungwonpark @ GitHub | Last updated 2022.01.16</small>
-
-This is a detailed version of my history. For a compact version, please refer to my [Resume](../resume).
 
 ## Education / Work
 
@@ -51,4 +49,4 @@ This is a detailed version of my history. For a compact version, please refer to
 * [Hanseong Sonjaehan Scholarship](http://sonjaehan.org/) <small>2015 – 2016, 5M KRW per year</small>
 * 1st prize on GSHS physics problem solving competition <small>2014, 2015</small>
 
-<small>Please refer to https://swpark.me/resume for a compact version of my history. End of document.</small>
+<small>Please refer to https://swpark.me/cv for more comprehensive list of my history. End of document.</small>
