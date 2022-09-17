@@ -8,13 +8,14 @@ description: Last updated 2022.07.08
 
 # Seung-won Park (박승원)
 
-<small>yyyyy (at) snu.ac.kr | https://swpark.me | seungwonpark @ GitHub | Last updated 2022.07.08</small>
+<small>yyyyy (at) snu.ac.kr | https://swpark.me | seungwonpark @ GitHub | Last updated 2022.09.17</small>
 
 This is a comprehensive list of my history. For a compact version, please refer to my [Resume](../resume).
 
 ## Education / Work
 
 * [Moloco, Inc.](https://www.moloco.com/) <small>2022.09 – now </small>
+  * Machine Learning Engineer
 * [Seoul National University](https://en.snu.ac.kr) <small>2017.03 – 2018.12, 2021.03 – 2022.08 </small>
   * BS degree in Physics <small>(GPA 3.87/4.30)</small>, double majored in CS <small>(GPA 3.19/4.30)</small>.
   * Research Intern at [MARG](http://marg.snu.ac.kr), [Supertone Inc.](https://supertone.ai/) <small>2021.10 – 2022.07</small>
@@ -43,7 +44,7 @@ This is a comprehensive list of my history. For a compact version, please refer 
   * [MelGAN](https://github.com/seungwonpark/melgan) – Reproduced the results before release of an official implementation.
   * [VoiceFilter](https://github.com/mindslab-ai/voicefilter) – I was acknowledged within the paper.
   * [GSHS TeX Society](http://latex.gs.hs.kr) – Founder, Server admin <small>2015.12 – 2017.02</small>
-* [Deepest](https://github.com/Deepest-Project): SNU Deep Learning Society <small>2019.01 – 2021.08, Vice President during 2020.02 – 2021.02</small>
+* [Deepest](https://github.com/Deepest-Project): SNU Deep Learning Society <small>2019.01 – now, Vice President during 2020.02 – 2021.02</small>
   * 1 weekly hosting + 1 group project for each season (half-year)
 * [Lorem Ipsum Seminar](https://github.com/seungwonpark/lipsum-seminar) <small>2017</small>
   * CS seminar of two physics students and one chemistry student
