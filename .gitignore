@@ -1,4 +1,12 @@
-_site
-.sass-cache
-.jekyll-metadata
-.DS_store
+# Next.js
+.next/
+out/
+node_modules/
+
+# Jekyll (legacy)
+_site/
+.sass-cache/
+.jekyll-metadata/
+
+# OS
+.DS_Store
