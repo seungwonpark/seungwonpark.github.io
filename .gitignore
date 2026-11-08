@@ -10,3 +10,6 @@ _site/
 
 # OS
 .DS_Store
+
+# local env (Google Maps key)
+.env*.local
