@@ -24,6 +24,12 @@ jobs:
           node-version: '20'
           cache: 'npm'
       - run: npm ci
+      - name: Move traffic page to secret slug
+        env:
+          TRAFFIC_SLUG: ${{ secrets.TRAFFIC_SLUG }}
+        run: |
+          if [ -z "$TRAFFIC_SLUG" ]; then echo "TRAFFIC_SLUG secret is not set"; exit 1; fi
+          mv app/traffic "app/$TRAFFIC_SLUG"
       - run: npm run build
         env:
           NEXT_PUBLIC_GMAPS_KEY: ${{ secrets.GMAPS_KEY }}
